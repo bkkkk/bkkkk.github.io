@@ -1,0 +1,63 @@
+---
+layout: post
+title: 'Writing a thesis in Latex: Folder structure'
+date: 2014-12-09 23:25:55.000000000 +00:00
+categories: []
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '9289994'
+  publicize_facebook_url: https://facebook.com/10100182142972830
+  _wpas_done_215337: '1'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:200903169;b:1;}}
+  publicize_twitter_user: bkkkk
+  publicize_twitter_url: http://t.co/cHABhyxGhL
+  _wpas_done_215338: '1'
+  _publicize_pending: '1'
+  geo_public: '0'
+author:
+  login: masterjaysc
+  email: jayb88@gmail.com
+  display_name: masterjaysc
+  first_name: ''
+  last_name: ''
+---
+<p>A thesis is a giant document with many moving parts. You'll have multiple chapters, appendices, Tikz diagrams, PDF plots, Feynmf diagrams, bibliography, and a lot of words. Thankfully latex provides you with a few ways of organizing all of these.</p>
+<p>In brief, I have a main file in the root directory called <em>Thesis.tex </em>which contains the backbone of the thesis, includes and sets up packages, sets up page styles, and adds bibliography resources (read .bib files), but does not include any content. I very rarely worked in this file, only when adding packages or making changes to pagination.</p>
+<p>Also in the root directory<em> </em>I have a directory for each chapter included in the thesis: /<em>PartCalibration/</em>,<em> /PartIntroduction/</em> and so on. In each of these folders I will have the main tex file for the chapter and a few resources folders (<em>plots</em>, <em>diagrams</em>, etc...). The tex files are grouped with the resources that they include.</p>
+<p>Below is an excerpt from my <em>Thesis.tex </em>file, I've omitted the packages and page style setup.</p>
+<p>[code gutter="false"]<br />
+%% Packages and Page styles setup not shown<br />
+%% Front matter<br />
+\begin{document}<br />
+\include{BoilerPlate/PageTitle}<br />
+\newpage<br />
+\include{BoilerPlate/Declaration}<br />
+\newpage<br />
+\include{PartAbstract/Abstract}<br />
+\include{BoilerPlate/Acknowledgements}<br />
+\include{Preface.tex}<br />
+\tableofcontents<br />
+\listoffigures<br />
+\listoftables</p>
+<p>\newpage</p>
+<p>\include{PartIntroduction/Introduction}<br />
+\include{PartTheory/Theory}<br />
+\include{PartTopQuark/TopQuark}<br />
+\include{PartDetector/Detector}<br />
+%% More chapters&lt;/pre&gt;<br />
+\begin{appendices}<br />
+\include{PartDetector/DetectorElectronID}<br />
+\include{PartDetector/DetectorMuonID}<br />
+%% More appendices<br />
+\end{appendices}</p>
+<p>\newpage</p>
+<p>\printbibliography<br />
+\end{document}<br />
+[/code]</p>
+<p>The main thing to note here are the calls to \include{SomeTexFile} which includes the tex file for each chapter. This structure allows you to separate the setup from the content, limits the damage if a file gets corrupted, and makes navigation across your thesis much simpler.</p>
+<div style="background-color:#eaecee;margin:5px;"><strong>Nerdy note: </strong>Here we use \include and not \input since it is faster and we want the page breaks before and after each chapter. There is some explanation of the difference between \include and \input on <a href="http://tex.stackexchange.com/questions/246/when-should-i-use-input-vs-include">StackOverflow</a>.</div>
+<p>I have all my Tikz diagrams and feynmf diagrams is separate files, these then get added with the <em>\input </em>command to avoid having diagram code cluttering the text.</p>
+<p>That is it for now, next I will look at a few of the packages I use in more detail.</p>
