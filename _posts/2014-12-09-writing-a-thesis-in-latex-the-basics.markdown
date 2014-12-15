@@ -4,6 +4,7 @@ title: 'Writing a thesis in Latex: The basics!'
 date: 2014-12-09
 tags: [latex, thesis, typeset]
 type: post
+author: jacobo_blanco
 published: true
 ---
 

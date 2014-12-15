@@ -5,6 +5,7 @@ date: 2014-12-14
 tags: [latex, thesis, typeset]
 type: post
 published: true
+author: jacobo_blanco
 image:
   feature: UnitBanner.jpg
 ---
@@ -17,7 +18,7 @@ image:
 *  Auto generated table of contents
 {:toc}
 </div>
-</section><!-- /#table-of-contents -->
+</section>
 
 There are several packages you might find useful while putting together your thesis. In my case, I use over 20 packages. Some of them provide facilities that you'll use all over the place, while others are more specific. Over the next few posts I will cover some of the ones I've found useful.
 
@@ -31,7 +32,7 @@ In siunitx, one types a value with a unit using the **\SI** command. This comma
 
 ------
 
-### Example
+**Example**
 
 {% highlight latex %}
 \SI{8}{\TeV}
@@ -51,9 +52,7 @@ If you need to render units or values on their own, siunitx provides the **\si**
 
 ------
 
-### Example
-
-**Code**
+**Example**
 
 {% highlight latex %}
 \si{\TeV}
@@ -71,9 +70,7 @@ There is also a basic facility to render values with uncertainties as shown belo
 
 ------
 
-### Example
-
-**Code**
+**Example**
 
 {% highlight latex %}
 \SI{245.6(100)}{\pico\barn}
@@ -91,9 +88,7 @@ Range and list commands are also defined, there are multiple options to configur
 
 ------
 
-### Example
-
-**Code**
+**Example**
 
 {% highlight latex %}
 \SIrange{2-10}{\percent}
@@ -113,8 +108,6 @@ Siunitx can also help you typeset tables. For this purpose the package provides 
 
 -----
 
-### Example Table
-
 <img src="/images/Table.png" alt="Example table">
 
 -----
@@ -122,8 +115,6 @@ Siunitx can also help you typeset tables. For this purpose the package provides 
 The uncertainties and decimal points are aligned in each column and the correct spacing is applied between the central value, the uncertainty operator, and the uncertainty.
 
 -----
-
-### Example
 
 {% highlight latex %}
 \begin{table}[htbp]
