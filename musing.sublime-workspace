@@ -1067,6 +1067,9 @@
 	},
 	"file_history":
 	[
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_config.yml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gemfile",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gemfile.lock",
 		"/Users/jayb88/Downloads/new-page/_sass/vendor/font-awesome/_larger.scss",
 		"/Users/jayb88/Downloads/new-page/_sass/forms.scss",
 		"/Users/jayb88/Downloads/new-page/favicon.ico",
@@ -1191,10 +1194,7 @@
 		"/Users/jayb88/Test.tex",
 		"/Users/jayb88/jblanco/CalibrationWork/RunMakeSF/jobOptions/Plotter.cxx",
 		"/Users/jayb88/jblanco/CalibrationWork/RunMakeSF/finalOutput/SFPlot-FinalFinalFinal/Forward_C_smt.tex",
-		"/Users/jayb88/jblanco/CalibrationWork/RunMakeSF/output/SFResult-FinalFinal-20140816152353/Test.tex",
-		"/Users/jayb88/jblanco/CalibrationWork/RunMakeSF/finalOutput/SFPlot-FinalFinalFinal/Transition_A_reco.tex",
-		"/Users/jayb88/jblanco/CalibrationWork/RunMakeSF/finalOutput/SFPlot-FinalFinalFinal/Barrel_A_reco.tex",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartCalibration2012/Plots/Latest/Transition_C_reco.png"
+		"/Users/jayb88/jblanco/CalibrationWork/RunMakeSF/output/SFResult-FinalFinal-20140816152353/Test.tex"
 	],
 	"find":
 	{
@@ -1425,6 +1425,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"config",
+				"_config.yml"
+			],
 			[
 				"index",
 				"index.md"
@@ -1932,10 +1936,6 @@
 			[
 				"weakneu",
 				"PartTheory/Diagrams/WeakNeutral.tex"
-			],
-			[
-				"weak",
-				"PartTheory/Diagrams/WeakCharged.tex"
 			]
 		],
 		"width": 0.0
