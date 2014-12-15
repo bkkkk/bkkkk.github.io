@@ -2,7 +2,8 @@
 
 title:            The CodePanda Musings
 locale:           en_US
-url:              http://bkkkk.github.io
+# url:              http://bkkkk.github.io
+url:              http://localhost:4000
 
 
 # Jekyll configuration
@@ -28,7 +29,7 @@ kramdown:
 owner:
   name: Jacobo Blanco
   avatar: bio-photo.jpg
-  bio: "I am a PhD in physics dreaming of programming all the things."
+  bio: "Gamer, scientist, programmer, wannabe pixel put-downer. I make strange noises when nobody is watching."
   email: jayb88@gmail.com
   disqus-shortname: 
   twitter: masterjaysc
@@ -41,7 +42,7 @@ owner:
     ad-slot: 
   bing-verify: 
   github: bkkkk
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+  stackoverflow: http://stackoverflow.com/users/1171374/jacobo-blanco
   linkedin: #username
   instagram: #username
   lastfm: #username
