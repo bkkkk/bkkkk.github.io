@@ -2,7 +2,6 @@
 layout: post
 title: 'Writing a thesis in Latex: Folder structure'
 date: 2014-12-09
-status: publish
 tags: [latex, thesis, typeset]
 type: post
 published: true
@@ -90,7 +89,7 @@ Below is an excerpt from my Thesis.tex file, I've omitted the packages and page 
 
 The main thing to note here are the calls to **\include{SomeTexFile}** which includes the tex file for each chapter. This structure allows you to separate the setup from the content, limits the damage if a file gets corrupted, and makes navigation across your thesis much simpler.
 
-> Nerdy note: Here we use **\include** and not **\input** since it is faster and we want the page breaks before and after each chapter. There is some explanation of the difference between \include and \input on [StackOverflow](http://tex.stackexchange.com/questions/246/when-should-i-use-input-vs-include).
+Nerdy note: Here we use **\include** and not **\input** since it is faster and we want the page breaks before and after each chapter. There is some explanation of the difference between \include and \input on [StackOverflow](http://tex.stackexchange.com/questions/246/when-should-i-use-input-vs-include).{: .notice}
 
 I have all my Tikz diagrams and feynmf diagrams is separate files, these then get added with the \input command to avoid having diagram code cluttering the text.
 That is it for now, next I will look at a few of the packages I use in more detail.

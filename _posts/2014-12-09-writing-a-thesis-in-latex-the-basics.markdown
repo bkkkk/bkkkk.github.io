@@ -2,7 +2,7 @@
 layout: post
 title: 'Writing a thesis in Latex: The basics!'
 date: 2014-12-09
-status: publish
+tags: [latex, thesis, typeset]
 type: post
 published: true
 ---
