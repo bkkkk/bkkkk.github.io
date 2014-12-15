@@ -44,15 +44,10 @@ owner:
   github: bkkkk
   stackoverflow: http://stackoverflow.com/users/1171374/jacobo-blanco
   linkedin: #username
-  instagram: #username
   lastfm: #username
   tumblr: #username
-  pinterest: #username
-  foursquare: #username
   steam: #username
-  dribbble: #username
   youtube: #username
-  soundcloud: #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
