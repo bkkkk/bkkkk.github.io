@@ -11,55 +11,58 @@ type: post
 published: true
 ---
 There are several packages you might find useful while putting together your thesis. In my case, I use over 20 packages. Some of them provide facilities that you'll use all over the place, while others are more specific. Over the next few posts I will cover some of the ones I've found useful.
-Unit! Line up!
+
+# Unit! Line up!
+
 Typesetting values with units correctly is an important, and often overlooked, part of thesis writing. **siunitx** is a very powerful package that provides you with a consistent syntax to typeset values, ranges, lists, units, tabulated data, and uncertainties.
 
 ## The basic value-unit pair
-In siunitx, one types a value with a unit using the **\SI** command. Note that this works in the text
 
-**Code**
+In siunitx, one types a value with a unit using the **\SI** command. This command works in both math-mode and inline with text. In both environments the value and the unit are rendered in the same way. The syntax is fairly self-explanatory. The package supports a very large number of different units. Note that in the example above we used a shortcut provided by siunitx for the common unit TeV. One can also write **\tera\electronvolt** or **\centi\meter**. For a full list of available units check-out the siunitx [documentation](http://mirror.ox.ac.uk/sites/ctan.org/macros/latex/contrib/siunitx/siunitx.pdf). You can also typeset composite units such as **\centi\meter\per\second** and so on.
+
+------
+
+### Example
 
 {% highlight latex %}
 \SI{8}{\TeV}
-{% endhighlight %}
 
-**Example output**
-
-![Single inline]({{ site.baseurl }}/assets/Inline.png)
-
-or in math-mode:
-
-**Code**
-
-{% highlight latex %}
 $\sqrt{s}=\SI{8}{\TeV}$
 {% endhighlight %}
 
-**Output example**
+**Output**
 
-![In equation example]({{ site.baseurl }}/assets/InEquation.png)
+<img src="/images/Inline.png" alt="Inline example" />
 
-In both environments the value and the unit are rendered in the same way. The syntax is fairly self-explanatory. The package supports a very large number of different units. Note that in the example above we used a shortcut provided by siunitx for the common unit TeV. One can also write **\tera\electronvolt** or **\centi\meter**. For a full list of available units check-out the siunitx [documentation](http://mirror.ox.ac.uk/sites/ctan.org/macros/latex/contrib/siunitx/siunitx.pdf). You can also typeset composite units such as **\centi\meter\per\second** and so on.
-Typesetting percentages and angles us also possible, note that the correct spacing is applied consistently:
+<img src="/images/InEquation.png" alt="In equation example" />
+
+------
+
+If you need to render units or values on their own, siunitx provides the **\si** and **\num** commands. The former will typeset large numbers with a delimiter to group digits together to improve readability. See the documentation above to learn how to change the delimiter.
+
+------
+
+### Example
 
 **Code**
-{% highlight latex %}
-\SI{20.5}{\percent}
-{% endhighlight %}
-
-**Output example**
-
-![Percentage Example]({{ site.baseurl }}/assets/Percentage.png)
-
-If you need to render units or values on their own, siunitx provides the \si and \num commands:
 
 {% highlight latex %}
 \si{\TeV}
 \num{1003333}
 {% endhighlight %}
 
-The **\num** command will typeset large numbers with a delimiter to group digits together to improve readability. So for example 100000 will be rendered as 100 000. See the documentation above to learn how to change the delimiter.
+**Output**
+
+<img src="">
+<img src="">
+
+------
+
 There is also a basic facility to render values with uncertainties as shown below. Note that the uncertainty is defined with no decimal points.
+
+------
+
+### Example
 
 **Code**
 
@@ -69,10 +72,17 @@ There is also a basic facility to render values with uncertainties as shown belo
 
 **Output example**
 
-![Percentage Example]({{ site.baseurl }}/assets/WithUncertainty.png)
+<img src="/images/WithUncertainty.png" alt="Uncertainty example" />
+
+------
 
 ## Ranges and lists
-Range and list commands are also defined, there are multiple options to configure how these lists/ranges are rendered. There commands \numrange and \numlist are also available to render lists/ranges of numbers without units.
+
+Range and list commands are also defined, there are multiple options to configure how these lists/ranges are rendered. There commands **\numrange** and **\numlist** are also available to render lists/ranges of numbers without units.
+
+------
+
+### Example
 
 **Code**
 
@@ -81,18 +91,30 @@ Range and list commands are also defined, there are multiple options to configur
 \SIlist{5;9;12}{\cm}
 {% endhighlight %}
 
-**Output example**
+**Output**
 
-![Range Example]({{ site.baseurl }}/assets/Range.png)
-![List Example]({{ site.baseurl }}/assets/List.png)
+<img src="/images/Range.png" alt="Range of numbers" />
+<img src="/images/List.png" alt="List of numbers" />
+
+------
 
 ## Tables
 
-Siunitx can also help you typeset tables. For this purpose the package provides a new column type S. First let me show you a full (real world) example of the package in action, and then I'll walk you through the syntax:
+Siunitx can also help you typeset tables. For this purpose the package provides a new column type S. First let me show you a full (real world) example of the package in action, and then I'll walk you through the syntax.
 
-![Table Example]({{ site.baseurl }}/assets/Table.png)
+-----
+
+### Example Table
+
+<img src="/images/Table.png" alt="Example table">
+
+-----
 
 The uncertainties and decimal points are aligned in each column and the correct spacing is applied between the central value, the uncertainty operator, and the uncertainty.
+
+-----
+
+### Example
 
 {% highlight latex %}
 \begin{table}[htbp]
@@ -120,6 +142,8 @@ The uncertainties and decimal points are aligned in each column and the correct 
 \end{table}
 {% endhighlight %}
 
+-----
+
 There is a lot of code here so lets work through the important bits. First up, the column definition used:
 
 {% highlight latex %}
@@ -142,7 +166,11 @@ When defining the headers of the table we write them within curly braces. This s
 ## Pitfalls
 
 While siunitx is a very useful packages, it does run into trouble in some places. In particular, it does not provide you with a syntax to typeset values with multiple uncertainties or asymmetric uncertainties. Luckily there is a way to get a look that is consistent with siunitx for these types of values.
-I have included a few commands to help with rendering asymmetric uncertainties,
+I have included a few commands to help with rendering asymmetric uncertainties and multiple uncertainties:
+
+-----
+
+### Asymmetric uncertainty
 
 **Code**
 
@@ -151,11 +179,11 @@ I have included a few commands to help with rendering asymmetric uncertainties,
 \asymunc{10.2}{3.2}{1.4}{\si{\TeV}}
 {% endhighlight %}
 
-**Output example**
+**Output**
 
-![Range Example]({{ site.baseurl }}/assets/AsymUncertainty.png)
+<img src="/images/AsymUncertainty.png">
 
-and multiple uncertainties
+### Multiple uncertainties
 
 **Code**
 
@@ -167,9 +195,11 @@ and multiple uncertainties
 $\num{165}\;^{+\;10}_{-\;8}\stat\pm\num{17}\syst\si{\pico\barn}$
 {% endhighlight %}
 
-**Output example**
+**Output**
 
-![Range Example]({{ site.baseurl }}/assets/MultipleAsymmetric.png)
+<img src="/images/MultipleAsymmetric.png" alt="" >
+
+-----
 
 You will need to adapt and mix-and-match components from the two code snippets above for your particular needs but its a good place to start.
 I hope I've managed to convince you to pick up siunitx, the earlier you start using these packages the better off you will be. Please take a look at the documentation as I've only scratched the surface of what can be done with siunitx.
