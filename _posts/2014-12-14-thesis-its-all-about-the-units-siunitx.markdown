@@ -2,14 +2,13 @@
 layout: post
 title: 'Thesis: Its all about the units - siunitx'
 date: 2014-12-14
-tags:
-- latex
-- thesis
-- typeset
-status: publish
+tags: [latex, thesis, typeset]
 type: post
 published: true
+image:
+  feature: UnitBanner.jpg
 ---
+
 There are several packages you might find useful while putting together your thesis. In my case, I use over 20 packages. Some of them provide facilities that you'll use all over the place, while others are more specific. Over the next few posts I will cover some of the ones I've found useful.
 
 # Unit! Line up!

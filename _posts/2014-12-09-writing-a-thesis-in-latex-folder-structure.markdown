@@ -3,11 +3,11 @@ layout: post
 title: 'Writing a thesis in Latex: Folder structure'
 date: 2014-12-09
 status: publish
+tags: [latex, thesis, typeset]
 type: post
 published: true
 image:
   feature: FolderBanner.jpg
-  credit: Jacobo Blanco
 ---
 
 A thesis is a giant document with many moving parts. You'll have multiple chapters, appendices, Tikz diagrams, PDF plots, Feynmf diagrams, bibliography, and a lot of words. Thankfully latex provides you with a few ways of organizing all of these.

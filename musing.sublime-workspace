@@ -517,15 +517,20 @@
 			]
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 167.0,
+		"height": 127.0,
 		"selected_items":
 		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"new pst",
+				"Jekyll: New post"
+			],
 			[
 				"check",
 				"LaTeXing: Check System"
@@ -545,10 +550,6 @@
 			[
 				"list",
 				"Package Control: List Packages"
-			],
-			[
-				"remove",
-				"Package Control: Remove Package"
 			],
 			[
 				"list packa",
@@ -1033,13 +1034,9 @@
 			[
 				"tabu",
 				"Snippet: Tabular"
-			],
-			[
-				"root",
-				"Snippet: LaTeXing Option Root File"
 			]
 		],
-		"width": 493.0
+		"width": 333.0
 	},
 	"console":
 	{
@@ -1068,11 +1065,6 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/jayb88/Projects/Website/bkkkk.github.io",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass"
-	],
 	"file_history":
 	[
 		"/Users/jayb88/Downloads/new-page/_sass/vendor/font-awesome/_larger.scss",
@@ -1380,14 +1372,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 25.0
@@ -1431,7 +1415,6 @@
 	{
 		"height": 112.0
 	},
-	"project": "musing.sublime-project",
 	"replace":
 	{
 		"height": 46.0
@@ -1973,7 +1956,6 @@
 		],
 		"width": 392.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},
