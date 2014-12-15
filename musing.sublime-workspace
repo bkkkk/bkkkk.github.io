@@ -1067,13 +1067,26 @@
 	},
 	"file_history":
 	[
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_data/navigation.yml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_config.yml",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/default-thumb.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/typography.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/SingleUnit.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/site.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/List.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/musing.sublime-project",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_config.yml",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_includes/_author-bio.html",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_data/navigation.yml",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_data/authors.yml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/AsymUncertainty.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_templates/archive",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_octopress.yml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_layouts/home.html",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/favicon.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/favicon.ico",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/404.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_includes/_author-bio.html",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/variables.scssc",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/typography.scssc",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/site.scssc",
@@ -1105,16 +1118,11 @@
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/351e58759e60234e60c1265a8bc1fc0ba09f405d/_settings.scssc",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/package.json",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/musing.sublime-workspace",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/musing.sublime-project",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/index.md",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gruntfile.js",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gemfile.lock",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gemfile",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/feed.xml",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/favicon.png",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/favicon.ico",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_octopress.yml",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/404.md",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/MultipleAsymmetric.png",
 		"/Users/jayb88/Downloads/new-page/_sass/vendor/font-awesome/_larger.scss",
 		"/Users/jayb88/Downloads/new-page/_sass/forms.scss",
@@ -1186,15 +1194,7 @@
 		"/Users/jayb88/jblanco/CalibrationWork/RunMakeSF/jobOptions/PlotterSingle.cxx",
 		"/Users/jayb88/jblanco/CalibrationWork/RunMakeSF/jobOptions/PlotterGeneric.cxx",
 		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartAbstract/Abstract.tex",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartCalibration2012/Plots/SFPlots/pt_smt.pdf",
-		"/Users/jayb88/jblanco/CalibrationWork/RunMakeSF/jobOptions/MakeEfficiency.cxx",
-		"/Users/jayb88/jblanco/CalibrationWork/TnPFitter/Root/FitterDraw.cxx",
-		"/Users/jayb88/jblanco/CalibrationWork/TnPFitter/data/TnPFitter-FittingConfig.xml",
-		"/Users/jayb88/jblanco/CalibrationWork/MuonEfficiency/Root/SummaryPlotMaker.cxx",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartCalibration2012/Resources/BreakDown.txt",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/res/RHULCrest.png",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartCrossSection/Diagram/Feynman/MultijetFakeLeptoin.tex",
-		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap"
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartCalibration2012/Plots/SFPlots/pt_smt.pdf"
 	],
 	"find":
 	{
@@ -1427,24 +1427,52 @@
 		"selected_items":
 		[
 			[
+				"thebasics",
+				"_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown"
+			],
+			[
+				"siunitx",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"nva",
+				"_data/navigation.yml"
+			],
+			[
+				"markdown",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				"markd",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				"markdo",
+				"_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown"
+			],
+			[
+				"authors",
+				"_data/authors.yml"
+			],
+			[
+				"navit",
+				"_data/navigation.yml"
+			],
+			[
+				".yml",
+				"_data/authors.yml"
+			],
+			[
 				"",
 				"_includes/_author-bio.html"
 			],
 			[
 				"mark",
 				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
-			],
-			[
-				"markd",
-				"_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown"
-			],
-			[
-				"markdown",
-				"_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown"
-			],
-			[
-				"config",
-				"_config.yml"
 			],
 			[
 				"index",
@@ -1909,34 +1937,6 @@
 			[
 				"thesib",
 				"Thesis.bib"
-			],
-			[
-				"calibrationmcp",
-				"PartCalibration2012/CalibrationMCPCuts.tex"
-			],
-			[
-				"topqua",
-				"PartTopQuark/TopQuark.tex"
-			],
-			[
-				"bosted",
-				"PartBoosted/Boosted.tex"
-			],
-			[
-				"treeb",
-				"PartTheory/Diagrams/TheoryQEDTreeB.tex"
-			],
-			[
-				"qed",
-				"PartTheory/Diagrams/TheoryQEDTreeA.tex"
-			],
-			[
-				"tree",
-				"PartTheory/Diagrams/TheoryQEDTreeB.tex"
-			],
-			[
-				"qedtree",
-				"PartTheory/Diagrams/TheoryQEDTreeA.tex"
 			]
 		],
 		"width": 0.0
