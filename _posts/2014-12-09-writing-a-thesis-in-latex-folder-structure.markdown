@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Writing a thesis in Latex: Folder structure'
+title: 'Thesis: Folder structure'
 date: 2014-12-09
 tags: [latex, thesis, typeset]
 type: post

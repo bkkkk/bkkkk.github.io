@@ -10,16 +10,6 @@ image:
   feature: UnitBanner.jpg
 ---
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section>
-
 There are several packages you might find useful while putting together your thesis. In my case, I use over 20 packages. Some of them provide facilities that you'll use all over the place, while others are more specific. Over the next few posts I will cover some of the ones I've found useful.
 
 # Unit! Line up!

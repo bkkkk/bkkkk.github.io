@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Writing a thesis in Latex: The basics!'
+title: 'Thesis: The basics!'
 date: 2014-12-09
 tags: [latex, thesis, typeset]
 type: post

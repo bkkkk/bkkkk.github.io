@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thesis: An opinionated "Before You Start"'
+title: 'Thesis: Some opinionated tips'
 date: 2014-12-19
 tags: [latex, thesis, typeset]
 type: post
@@ -12,15 +12,25 @@ As you work with Latex you'll pick up on a few themes. The basic functionality o
 
 This is an unfortunate journey that you will have to take if you want to typeset a good looking document. You will learn a lot from it and that's something you will never lose. What follows is a list of a few nuggets I picked up along the way, this list will get larger as I come up with things.
 
-**Use the chktex linter**: I've mentioned this before, but this application produces a list of "errors" found in your tex files. These are not errors that will prevent the document compiling, but rather misuses of commands that might cause things not to typeset correctly.
+### Use the chktex linter
 
-**Use the l2tabu package**: This package codifies a few [LaTeX taboos](http://anorien.csc.warwick.ac.uk/mirrors/CTAN/info/l2tabu/english/l2tabuen.pdf) and will warn you while compiling if these are detected. Use personal judgement here.
+I've mentioned this before, but this application produces a list of "errors" found in your tex files. These are not errors that will prevent the document compiling, but rather misuses of commands that might cause things not to typeset correctly.
 
-**Avoid $$...$$ for centered equations**: The $$...$$ is a TeX primitive and can sometimes produce incorrect spacing. Instead use the more modern Latex command \\[...\\] or \begin{equation} from the package **amsmath**. I use the _equation_ environment as it feels cleaner to me and is more consistent with uses of the environment _align_.
+### Use the l2tabu package
 
-**Avoid $...$ for inline equations**: Similar to the above, use \\(...\\) instead. Load the **fixltx2e** package to fix a handful of issues including some rendering quirk with \\(...\\).
+This package codifies a few [LaTeX taboos](http://anorien.csc.warwick.ac.uk/mirrors/CTAN/info/l2tabu/english/l2tabuen.pdf) and will warn you while compiling if these are detected. Use personal judgement here.
 
-**Define new commands for concepts**: Define new commands to codify concepts and improve readability of code. For example, I've defined a new command to represent missing energy:
+### Do not use \$\$...\$\$
+
+The $$...$$ is a TeX primitive and can sometimes produce incorrect spacing. Instead use the more modern Latex command \\[...\\] or \begin{equation} from the package **amsmath**. I use the _equation_ environment as it feels cleaner to me and is more consistent with uses of the environment _align_.
+
+### Do not use $...$
+
+Similar to the above, use \\(...\\) instead. Load the **fixltx2e** package to fix a handful of issues including some rendering quirk with \\(...\\).
+
+### Define new commands for concepts
+
+Define new commands to codify concepts and improve readability of code. For example, I've defined a new command to represent missing energy:
 
 {% highlight latex %}
 \newcommand{\met}{\ensuremath{E^{\textrm{miss}}_{\textrm{T}}}}
@@ -29,10 +39,13 @@ This is an unfortunate journey that you will have to take if you want to typeset
 This means that I avoid having to repeat code, I don't have to make a decision right now about how I want to represent this concept, increases the consistency of my test, and more importantly it makes the text much more readable without compiling.
 
 {% highlight latex %}
-A large amount of \met\ is expected in a final state SUSY signature.
+A large amount of \met\ is expected
+in a final state SUSY signature.
 {% endhighlight %}
 
-**Use version control**: If you ever code anything that matters you have to put it into some kind of version control and have it backed up regularly to an off-site backup. I use git and github. If you only have a single copy of your thesis and you're not updating your backup constantly, you deserve whatever horrible thing happens to you.
+### Use version control
+
+If you ever code anything that matters you have to put it into some kind of version control and have it backed up regularly to an off-site backup. I use git and github. If you only have a single copy of your thesis and you're not updating your backup constantly, you deserve whatever horrible thing happens to you.
 
 ## Managing your bibliography
 
@@ -44,7 +57,9 @@ To keep things short, use the **biblatex** package instead of something like nat
 \usepackage[sorting=none,backend=biber]{biblatex}
 \addbibresource{Thesis.bib}
 
-Many of its parameters have also been measured with great precision e.g.\ the electron magnetic moment $g$ is known to \num{e-13}~\cite{Theory:AwesomeSM}.
+Many of its parameters have also been measured 
+with great precision e.g.\ the electron magnetic
+moment $g$ is known to \num{e-13}~\cite{Theory:AwesomeSM}.
 
 \printbibliography
 {% endhighlight %}
