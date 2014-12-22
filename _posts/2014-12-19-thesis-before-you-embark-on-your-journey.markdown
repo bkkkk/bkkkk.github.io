@@ -47,6 +47,18 @@ in a final state SUSY signature.
 
 If you ever code anything that matters you have to put it into some kind of version control and have it backed up regularly to an off-site backup. I use git and github. If you only have a single copy of your thesis and you're not updating your backup constantly, you deserve whatever horrible thing happens to you.
 
+## Unicode support (Get yur umlaut on!)
+
+Latex unfortunately does not support utf8 by default, so you cannot directly type names with umlauts into your latex code. Luckily with only a couple of lines of code you can get support for those lovely foreign names.
+
+{% highlight latex %}
+\usepackage[T1]{fontenc}
+\usepackage[latin1]{inputenc}
+\usepackage{lmodern}
+{% endhighlight %}
+
+What these packages do has been explained by more capable people than me on [tex.se](http://tex.stackexchange.com/questions/44694/fontenc-vs-inputenc). Note that here I am using the **lmodern** font package that gives you access to additional glyphs. If you just want to use the default *Computer Modern* simply load the fontenc and inputenc packages, the cm-super font will load automatically.
+
 ## Managing your bibliography
 
 Bibliographies are handled by roughly two components, first the external application, traditionally bibtex which processes the bibliography **.bib** file and a package like **natbib** which handles the formatting of the citations in your document.
