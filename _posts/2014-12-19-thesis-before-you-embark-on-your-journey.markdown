@@ -57,7 +57,7 @@ Latex unfortunately does not support utf8 by default, so you cannot directly typ
 \usepackage{lmodern}
 {% endhighlight %}
 
-What these packages do has been explained by more capable people than me on [tex.se](http://tex.stackexchange.com/questions/44694/fontenc-vs-inputenc). Note that here I am using the **lmodern** font package that gives you access to additional glyphs. If you just want to use the default *Computer Modern* simply load the fontenc and inputenc packages, the cm-super font will load automatically.
+What these packages do has been explained by more capable people than me on [tex.se](http://tex.stackexchange.com/questions/44694/fontenc-vs-inputenc). The **lmodern** package loads the font _Latin Modern_, which is a different font family to the latex default _Computer Modern_. If you just want to use cm simply load the fontenc and inputenc packages and the cm-super font, with additional glyphs, should load automatically.
 
 ## Managing your bibliography
 
