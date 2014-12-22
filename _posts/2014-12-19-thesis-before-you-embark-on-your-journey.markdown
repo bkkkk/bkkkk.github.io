@@ -87,6 +87,6 @@ pdflatex Thesis.tex
 
 **Sources**
 
-[LaTeX taboos](http://anorien.csc.warwick.ac.uk/mirrors/CTAN/info/l2tabu/english/l2tabuen.pdf)
-[Are \( and \) preferable to dollar signs for math mode?](http://tex.stackexchange.com/questions/510/are-and-preferable-to-dollar-signs-for-math-mode)
-[bibtex vs. biber and biblatex vs. natbib](http://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib)
+ * [LaTeX taboos](http://anorien.csc.warwick.ac.uk/mirrors/CTAN/info/l2tabu/english/l2tabuen.pdf)
+ * [Are \( and \) preferable to dollar signs for math mode?](http://tex.stackexchange.com/questions/510/are-and-preferable-to-dollar-signs-for-math-mode)
+ * [bibtex vs. biber and biblatex vs. natbib](http://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib)
