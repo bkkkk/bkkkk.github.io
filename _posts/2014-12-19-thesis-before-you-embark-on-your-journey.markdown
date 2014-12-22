@@ -47,7 +47,7 @@ in a final state SUSY signature.
 
 If you ever code anything that matters you have to put it into some kind of version control and have it backed up regularly to an off-site backup. I use git and github. If you only have a single copy of your thesis and you're not updating your backup constantly, you deserve whatever horrible thing happens to you.
 
-## Unicode support (Get yur umlaut on!)
+### Unicode support (Get yur umlaut on!)
 
 Latex unfortunately does not support utf8 by default, so you cannot directly type names with umlauts into your latex code. Luckily with only a couple of lines of code you can get support for those lovely foreign names.
 
