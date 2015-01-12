@@ -524,6 +524,14 @@
 		"selected_items":
 		[
 			[
+				"synta bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"new post",
+				"Jekyll: New post"
+			],
+			[
 				"remove",
 				"Package Control: Remove Package"
 			],
@@ -1026,17 +1034,9 @@
 			[
 				"fish",
 				"Set Syntax: Shell Script (fish)"
-			],
-			[
-				"table",
-				"Snippet: New table"
-			],
-			[
-				"tabu",
-				"Snippet: Tabular"
 			]
 		],
-		"width": 333.0
+		"width": 493.0
 	},
 	"console":
 	{
@@ -1067,16 +1067,21 @@
 	},
 	"file_history":
 	[
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-19-thesis-before-you-embark-on-your-journey.markdown",
+		"/Users/jayb88/.zpreztorc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_includes/_browser-upgrade.html",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/apple-touch-icon-precomposed.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/musing.sublime-project",
+		"/Users/jayb88/.gitignore_global",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_data/navigation.yml",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_config.yml",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/default-thumb.png",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/typography.scss",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/SingleUnit.png",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/site.scss",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/List.png",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/musing.sublime-project",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_data/authors.yml",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/AsymUncertainty.png",
@@ -1189,12 +1194,7 @@
 		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
 		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/Remote.bib",
 		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartTheory/Diagrams/WeakMuonDecay.tex",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartBoosted/Plots/MakeNonBoosted.tex",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/BoilerPlate/Acknowledgements.tex",
-		"/Users/jayb88/jblanco/CalibrationWork/RunMakeSF/jobOptions/PlotterSingle.cxx",
-		"/Users/jayb88/jblanco/CalibrationWork/RunMakeSF/jobOptions/PlotterGeneric.cxx",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartAbstract/Abstract.tex",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartCalibration2012/Plots/SFPlots/pt_smt.pdf"
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartBoosted/Plots/MakeNonBoosted.tex"
 	],
 	"find":
 	{
@@ -1426,6 +1426,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"before",
+				"_posts/2014-12-19-thesis-before-you-embark-on-your-journey.markdown"
+			],
 			[
 				"thebasics",
 				"_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown"
@@ -1933,10 +1937,6 @@
 			[
 				"thei",
 				"Thesis.tex"
-			],
-			[
-				"thesib",
-				"Thesis.bib"
 			]
 		],
 		"width": 0.0
@@ -1963,7 +1963,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 200.0,
 	"status_bar_visible": true,
 	"template_settings":
