@@ -5,7 +5,8 @@ date: 2015-01-08
 tags: [programming, learning]
 type: post
 published: true
-author: jacobo_blanco
+sharing: true
+comments: true
 ---
 
 Welcome to 2015, I hope you've made the transition well and with all of your limbs intact. This year I am focused on learning as much about programming and being a professional software developer as I can. My hope is to join a good development team from whom I can learn a lot and contribute to in return. 

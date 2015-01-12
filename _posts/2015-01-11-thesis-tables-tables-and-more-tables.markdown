@@ -8,7 +8,6 @@ type: post
 published: true
 comments: true
 sharing: true
-author: jacobo_blanco
 ---
 
 The role of a table is to help you **convince the reader** of the point you are trying to make. Good tables make for happy examiners, and happy examiners give you PhDs so it's well worth pleasing them.

@@ -6,7 +6,8 @@ tags: [latex, thesis, typeset]
 type: post
 published: true
 category: Thesis
-author: jacobo_blanco
+sharing: true
+comments: true
 image:
   feature: FolderBanner.jpg
 ---

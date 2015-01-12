@@ -4,8 +4,9 @@ title: 'Thesis: The basics!'
 date: 2014-12-09
 tags: [latex, thesis, typeset]
 category: Thesis
+sharing: true
+comments: true
 type: post
-author: jacobo_blanco
 published: true
 ---
 

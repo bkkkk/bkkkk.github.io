@@ -5,6 +5,8 @@ date: 2014-12-19
 tags: [latex, thesis, typeset]
 type: post
 category: Thesis
+sharing: true
+comments: true
 published: true
 author: jacobo_blanco
 ---
