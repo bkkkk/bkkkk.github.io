@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"fig",
+				"figcaption"
+			],
+			[
 				"biblio",
 				"bibliography{file}	latex-document"
 			],
@@ -510,19 +514,55 @@
 			[
 				"TNPFI",
 				"TnPFitter"
-			],
-			[
-				"tes",
-				"testEfficiency"
 			]
 		]
 	},
-	"build_system": "",
+	"build_system": "Packages/User/Jekyll.sublime-build",
 	"command_palette":
 	{
-		"height": 127.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"syntaxjek",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"project edi",
+				"Project: Edit"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"jek",
+				"Jekyll: Insert current datetime"
+			],
+			[
+				"jekyll",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"prew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
 			[
 				"synta bas",
 				"Set Syntax: Shell Script (Bash)"
@@ -544,10 +584,6 @@
 				"LaTeXing: Check System"
 			],
 			[
-				"package",
-				"Package Control: List Packages"
-			],
-			[
 				"list pack",
 				"Package Control: List Packages"
 			],
@@ -565,10 +601,6 @@
 			],
 			[
 				"previ",
-				"Markdown Preview: Preview in Browser"
-			],
-			[
-				"preview",
 				"Markdown Preview: Preview in Browser"
 			],
 			[
@@ -601,10 +633,6 @@
 			],
 			[
 				"choose",
-				"Build: Choose Quick Build"
-			],
-			[
-				"build",
 				"Build: Choose Quick Build"
 			],
 			[
@@ -1006,37 +1034,9 @@
 			[
 				"latex",
 				"Set Syntax: LaTeX"
-			],
-			[
-				"remove ",
-				"Package Control: Remove Package"
-			],
-			[
-				"update",
-				"Package Control: Upgrade/Overwrite All Packages"
-			],
-			[
-				"envio",
-				"LaTeXing: New Environment"
-			],
-			[
-				"key",
-				"Preferences: Key Bindings - User"
-			],
-			[
-				"instak",
-				"Package Control: Install Package"
-			],
-			[
-				"auto",
-				"Autocomplete file name"
-			],
-			[
-				"fish",
-				"Set Syntax: Shell Script (fish)"
 			]
 		],
-		"width": 493.0
+		"width": 593.0
 	},
 	"console":
 	{
@@ -1067,31 +1067,41 @@
 	},
 	"file_history":
 	[
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-01-08-learning-all-the-programmings.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-01-11-thesis-tables-tables-and-more-tables.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-19-thesis-before-you-embark-on-your-journey.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_includes/_author-bio.html",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_layouts/post.html",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_data/authors.yml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_config.yml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/WithUncertainty.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/vendor/font-awesome/_bordered-pulled.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/favicon.ico",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/coderay.scss",
+		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-build",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/musing.sublime-project",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/apple-touch-icon-precomposed.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/default-thumb.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/posts/index.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/index.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/404.md",
 		"/Users/jayb88/.zpreztorc",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_includes/_browser-upgrade.html",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/apple-touch-icon-precomposed.png",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/musing.sublime-project",
 		"/Users/jayb88/.gitignore_global",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_data/navigation.yml",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_config.yml",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/default-thumb.png",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/typography.scss",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/SingleUnit.png",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/site.scss",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/List.png",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_data/authors.yml",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/AsymUncertainty.png",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_templates/archive",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_octopress.yml",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_layouts/home.html",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/favicon.png",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/favicon.ico",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/404.md",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_includes/_author-bio.html",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/variables.scssc",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/typography.scssc",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/site.scssc",
@@ -1123,7 +1133,6 @@
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/351e58759e60234e60c1265a8bc1fc0ba09f405d/_settings.scssc",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/package.json",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/musing.sublime-workspace",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/index.md",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gruntfile.js",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gemfile.lock",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gemfile",
@@ -1185,16 +1194,7 @@
 		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/Output/Thesis.bbl",
 		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/NewOutput.bib",
 		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartTheory/Diagrams/TheoryQEDTreeB.tex",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartCalibration2012/NewTableNotSure",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/OutputThesis.bib",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartCalibration2012/CalibrationReco.tex",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartIntroduction/Introduction.tex",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartDetector/DetectorMuonID.tex",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartTheory/Diagrams/SelfQCD3.tex",
-		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/Remote.bib",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartTheory/Diagrams/WeakMuonDecay.tex",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartBoosted/Plots/MakeNonBoosted.tex"
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartCalibration2012/NewTableNotSure"
 	],
 	"find":
 	{
@@ -1219,6 +1219,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"**",
+			"]:",
+			"**:",
+			"\n**",
+			"intercolumn",
+			"* **",
+			"* ",
+			"[1]",
+			"1",
+			"](",
 			"stack",
 			"aside",
 			"image",
@@ -1336,17 +1346,7 @@
 			"{}",
 			"TopQuark",
 			"{ : ",
-			"align",
-			"equation",
-			"cite",
-			"sqrt",
-			"The ATLAS and CMS Collaborations",
-			"Lyndon",
-			"Selection of top-like events in the dilepton and le",
-			"\\url{\"",
-			"\"10.",
-			"{10.",
-			"\"10."
+			"align"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1427,6 +1427,34 @@
 		"selected_items":
 		[
 			[
+				"markdown",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				"2014",
+				"_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown"
+			],
+			[
+				"writi",
+				"_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown"
+			],
+			[
+				"markd",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				"",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				"md",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				".md",
+				"_posts/2015-01-11-thesis-tables-tables-and-more-tables.markdown"
+			],
+			[
 				"before",
 				"_posts/2014-12-19-thesis-before-you-embark-on-your-journey.markdown"
 			],
@@ -1447,14 +1475,6 @@
 				"_data/navigation.yml"
 			],
 			[
-				"markdown",
-				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
-			],
-			[
-				"markd",
-				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
-			],
-			[
 				"markdo",
 				"_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown"
 			],
@@ -1469,10 +1489,6 @@
 			[
 				".yml",
 				"_data/authors.yml"
-			],
-			[
-				"",
-				"_includes/_author-bio.html"
 			],
 			[
 				"mark",
@@ -1921,22 +1937,6 @@
 			[
 				"thesis.b",
 				"Thesis.bib"
-			],
-			[
-				"multijet",
-				"PartCrossSection/Diagram/Feynman/MultijetRealLepton.tex"
-			],
-			[
-				"mul",
-				"PartCrossSection/Diagram/Feynman/MultijetFakeLeptoin.tex"
-			],
-			[
-				"full",
-				"PartCrossSection/Diagram/Feynman/MultijetRealLepton.tex"
-			],
-			[
-				"thei",
-				"Thesis.tex"
 			]
 		],
 		"width": 0.0
