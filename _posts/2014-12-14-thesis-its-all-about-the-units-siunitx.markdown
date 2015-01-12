@@ -6,7 +6,8 @@ tags: [latex, thesis, typeset]
 type: post
 category: Thesis
 published: true
-author: jacobo_blanco
+comments: true
+sharing: true
 image:
   feature: UnitBanner.jpg
 ---

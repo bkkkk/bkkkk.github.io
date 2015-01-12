@@ -8,7 +8,6 @@ category: Thesis
 sharing: true
 comments: true
 published: true
-author: jacobo_blanco
 ---
 
 As you work with Latex you'll pick up on a few themes. The basic functionality of latex covers a large number of use cases but not everything. As a result you'll rack up a lot of packages very quickly. Unfortunately the documentation for most packages leave much to be desired, and the latest and greatest approaches to certain things are not always documented clearly. This leads to you having to navigate a series of tex.se posts and ancient and cryptic sites before you find an easy and stable way of doing one thing.
