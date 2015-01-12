@@ -5,6 +5,7 @@ date: 2014-12-09
 tags: [latex, thesis, typeset]
 type: post
 published: true
+category: Thesis
 author: jacobo_blanco
 image:
   feature: FolderBanner.jpg

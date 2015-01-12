@@ -4,6 +4,7 @@ title: 'Thesis: Its all about the units - siunitx'
 date: 2014-12-14
 tags: [latex, thesis, typeset]
 type: post
+category: Thesis
 published: true
 author: jacobo_blanco
 image:

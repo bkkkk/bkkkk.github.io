@@ -3,6 +3,7 @@ layout: post
 title: 'Thesis: The basics!'
 date: 2014-12-09
 tags: [latex, thesis, typeset]
+category: Thesis
 type: post
 author: jacobo_blanco
 published: true
