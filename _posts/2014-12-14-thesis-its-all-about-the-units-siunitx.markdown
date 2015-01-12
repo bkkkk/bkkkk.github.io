@@ -49,11 +49,6 @@ If you need to render units or values on their own, siunitx provides the **\si**
 \num{1003333}
 {% endhighlight %}
 
-**Output**
-
-<img src="">
-<img src="">
-
 ------
 
 There is also a basic facility to render values with uncertainties as shown below. Note that the uncertainty is defined with no decimal points.
