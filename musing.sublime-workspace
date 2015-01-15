@@ -520,9 +520,29 @@
 	"build_system": "Packages/User/Jekyll.sublime-build",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 27.0,
 		"selected_items":
 		[
+			[
+				"new draft",
+				"Jekyll: New draft"
+			],
+			[
+				"draft",
+				"Jekyll: New draft"
+			],
+			[
+				"jeky",
+				"Jekyll: Promote draft to post..."
+			],
+			[
+				"current date",
+				"Jekyll: Insert current date"
+			],
+			[
+				"new post",
+				"Jekyll: New post"
+			],
 			[
 				"syntaxjek",
 				"Set Syntax: Markdown (Jekyll)"
@@ -566,10 +586,6 @@
 			[
 				"synta bas",
 				"Set Syntax: Shell Script (Bash)"
-			],
-			[
-				"new post",
-				"Jekyll: New post"
 			],
 			[
 				"remove",
@@ -1018,25 +1034,9 @@
 			[
 				"snippet fig",
 				"Snippet: New figure"
-			],
-			[
-				"snippetfi",
-				"Snippet: Figure"
-			],
-			[
-				"latextools",
-				"LaTeXTools: Reconfigure and migrate settings"
-			],
-			[
-				"listp",
-				"Package Control: List Packages"
-			],
-			[
-				"latex",
-				"Set Syntax: LaTeX"
 			]
 		],
-		"width": 593.0
+		"width": 492.0
 	},
 	"console":
 	{
@@ -1067,12 +1067,15 @@
 	},
 	"file_history":
 	[
+		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-19-thesis-before-you-embark-on-your-journey.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/feed.xml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-01-15-thesis--using-feynmf-to-make-feynman-diagrams.md",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-01-08-learning-all-the-programmings.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-01-11-thesis-tables-tables-and-more-tables.markdown",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-19-thesis-before-you-embark-on-your-journey.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_includes/_author-bio.html",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_layouts/post.html",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_data/authors.yml",
@@ -1136,7 +1139,6 @@
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gruntfile.js",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gemfile.lock",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gemfile",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/feed.xml",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/MultipleAsymmetric.png",
 		"/Users/jayb88/Downloads/new-page/_sass/vendor/font-awesome/_larger.scss",
 		"/Users/jayb88/Downloads/new-page/_sass/forms.scss",
@@ -1192,9 +1194,7 @@
 		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/.latexmkrc",
 		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/LaTeXing/LaTeX.sublime-build",
 		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/Output/Thesis.bbl",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/NewOutput.bib",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartTheory/Diagrams/TheoryQEDTreeB.tex",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartCalibration2012/NewTableNotSure"
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/NewOutput.bib"
 	],
 	"find":
 	{

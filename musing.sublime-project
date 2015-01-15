@@ -5,7 +5,7 @@
 			"follow_symlinks": true,
 			"path": ".",
       "folder_exclude_patterns": [".sass-cache", "_site", "_assets", "_includes", "_layouts", "_plugins"],
-      "file_exclude_patterns":    ["_config.yml", ".htaccess", "archive.html", "atom.xml", "robots.txt", "index.md", "categories.html", "tags.html", "changelog.md", "pages.html", "Rakefile", "README.md", "sitemap.txt", "Gemfile", "Gemfile.lock"]
+      "file_exclude_patterns":    [".htaccess", "archive.html", "atom.xml", "robots.txt", "categories.html", "tags.html", "changelog.md", "pages.html", "Rakefile", "README.md", "sitemap.txt", "Gemfile", "Gemfile.lock"]
 		}
 	]
 }
