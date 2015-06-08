@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: Adventures in Refactoring Accept Or Reject
 categories: []
 tags: []
@@ -7,7 +7,9 @@ published: True
 
 ---
 
-Last time we were having a look at the initialize function of the little TJPsiTagSelector class. More work needs to be done there but for more fun, let's move to the accept methods. Below is the implementation of the two overloaded accept methods:
+*Adventures in refactoring is a series covering my progress in refactoring an old codebase I wrote at the end of my PhD. This is a learning exercise to improve my design and refactoring skills and an excuse to learn C++11 on a realistic code base.*
+
+Last time we looked at the initialize function of the little TJPsiTagSelector class. More work needs to be done there but for more fun, let's move to the accept methods. Below is the implementation of the two overloaded accept methods:
 
 {% highlight c++ %}
 int TJPsiTagSelector::accept(const D3PDReader::MuonD3PDObjectElement& muon) {
@@ -99,27 +101,74 @@ int TJPsiTagSelector::accept(float eta, int combinedMuon, float pt, float d0,
 }
 {% endhighlight %}
 
-My first instinct is to use *Extract Method* on each of the groups. I start, as expected, by writing a test for the failing case and the passing case.
+My first instinct is to use *Extract Method* on each of the groups. However, in it's current form the code will not easily move across. First let's combine the guard clauses, so:
+
+{% highlight c++ %}
+  // Reconstruction cuts
+  // if(!passReconstructionCuts(pt, eta)) return (0);
+  if (pt < ptCut) return (0);
+  if (fabs(eta) > etaCut) return (0);
+}
+{% endhighlight %}
+
+becomes this:
+
+{% highlight c++ %}
+  // Reconstruction cuts
+  // if(!passReconstructionCuts(pt, eta)) return (0);
+  if (!(pt > ptCut && fabs(eta) < etaCut)) return (0);
+}
+{% endhighlight %}
+
+Now the code to extract is really clear. I then write a bunch of tests for the failing case and a passing case: 
 
 {% highlight c++ %}
 TEST_F(TestTagSelector, reconstructionSelectionReturnsFalseIfMuonIsBad) {
-  EXPECT_EQ(0, selector->passReconstructionCuts(2000, 2.3));
-  EXPECT_EQ(0, selector->passReconstructionCuts(5000, 0.1));
+  EXPECT_EQ(false, selector->passReconstructionCuts(2000, 2.3));
+  EXPECT_EQ(false, selector->passReconstructionCuts(5000, 0.1));
 }
 
 TEST_F(TestTagSelector, reconstructionSelectionReturnsTrueIfMuonIsGood) {
-  EXPECT_EQ(1, selector->passReconstructionCuts(5000, 2.3));
+  EXPECT_EQ(true, selector->passReconstructionCuts(5000, 2.3));
 }
 {% endhighlight %}
 
-The code compiles and the test fail as expected. We now move into extracting the code, I added the return one to let the code compile.
+The code fails to compile since the target method is not there. We now move into extracting the code to the new method:
 
 {% highlight c++ %}
-int TJPsiTagSelector::passReconstructionCuts(float pt, float pt) {
-  if (pt < ptCut) return (0);
-  if (fabs(eta) > etaCut) return (0);
-  return (1);
+bool TJPsiTagSelector::passReconstructionCuts(float pt, float pt) {
+  return (pt > ptCut && fabs(eta) < etaCut);
 }
 {% endhighlight %}
 
-Without replacing the original code in
+Without replacing the code in the caller I recompile to make sure a all is well. I then uncomment the call to the method, recompile and retest. If all is well I remove the old code in the caller. Once everything works with the new method, I refactor the new method so it's cleaner and more concise.
+
+Following a similar process I extract the two other clumps of code into two new functions.
+
+The caller finally looks something like this:
+
+{% highlight c++ %}
+int TJPsiTagSelector::accept() {
+    if (!passReconstructionCuts(pt,eta)) return (0);
+    if (!passCombinedCut(combinedMuon)) return (0);
+    if (!passIPCuts(d0, z0, d0Sig, z0Sig)) return (0);
+
+    return (1);
+}
+{% endhighlight %}
+
+All test green!
+
+>While writing this post I've noted some decisions I don't like. The method naming is not very clear and the lack of more thorough testing could be a problem. I've learnt a lot since I started this refactoring journey and I want to go back to where I started and clean things up more. I considered that moving on however is more beneficial in the long term.
+
+That MuonD3PDObjectElement object is a dependency I have to break. There is no easy way to build such an object under test, the class which constructs these objects does so by connecting directly to a database file. I could Extract Interface from the MuonD3PDObjectElement since I have access to the source code. However if there is an update to the class I need to update my interface and the dependency remains. To paraphrase "Uncle Bob", I don't wanna get screwed by any dependency on D3PDReader.
+
+Instead I will use what Feathers' describes as the Adapt Parameter technique. I create a new interface called IMuon that defines a getter for each variable I need access to in the code. I then replace all references to MuonD3PDObject with references to IMuon. 
+
+I can implement IMuon in a class that will be exclusively for testing -a fake muon if you will- for which I can set all the parameters during testing. When it comes to hooking the D3PD class back in (or any source of muon data), I can create an Adapter class that will swallow a MuonD3PDObjectElement and return the correct values when called. The fake and real muon sources can be used interchangeably and the selectors won't have a clue.
+
+>This design choice would have been very helpful when I was working on this and using the code. Half way through the analysis we realised that the particular version of a variable we were using was wrong. Since calls to this method were everywhere I had to manually change all calls. I am still not convinced that all the changes were made. Had the interface design been in place all I'd have to do was change which method of D3PD gets called in the Adaptor class. A change that took me several hours and is likely incomplete would have been done correctly in five minutes.
+
+Let's do this then! 
+
+
