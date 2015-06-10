@@ -1,10 +1,14 @@
 ---
 date: 2015-06-05
 layout: post
+type: post
 title: Whats the point?!: The strange de-motivator
 categories: [bus blogs]
 tags: [productivity, work]
 published: True
+sharing: true
+comments: true
+
 ---
 
 I start a blog every 3 years. Usually because I read an article or listened to a podcast and I'm dying to talk about to anybody that will listen. Usually though there is nobody around so I take to writing.

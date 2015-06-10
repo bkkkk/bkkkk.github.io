@@ -1,13 +1,14 @@
 ---
-layout: 
-title: Human ping-pong: or Managing Expectations
-categories: []
-tags: []
-published: True
-
+title: 'Human ping-pong: or Managing Expectations'
+date: 2015-06-08
+layout: post
+type: post
+tags: [productivity, time management]
+categories: Blog Bus
+sharing: true
+comments: true
+published: true
 ---
-
-# Human ping-pong: Or Managing expectations
 
 Today was a perfect example of what happens when you try to do too much with not enough time. 
 

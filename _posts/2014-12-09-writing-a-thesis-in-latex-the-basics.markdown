@@ -1,12 +1,12 @@
 ---
-layout: post
 title: 'Thesis: The basics!'
 date: 2014-12-09
+layout: post
+type: post
 tags: [latex, thesis, typeset]
 category: Thesis
 sharing: true
 comments: true
-type: post
 published: true
 ---
 
