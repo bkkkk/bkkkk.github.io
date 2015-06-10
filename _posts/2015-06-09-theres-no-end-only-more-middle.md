@@ -1,8 +1,8 @@
 ---
+title: "There's no end only more middle"
 layout: post
 type: post
 date: 2015-06-09
-title: 'There's no end only more middle'
 categories: Bus Blogs
 tags: [bus blogs,productivity]
 published: true
