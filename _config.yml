@@ -1,53 +1,108 @@
-# Site wide configuration
+# --- Serving options --- #
 
-title:            The CodePanda Musings
-locale:           en_US
-url:              http://bkkkk.github.io
-#url:              http://localhost:4000
+# url is the full website URL
+# baseurl is the website's URL without the hostname
 
+# If you are building a simple GitHub user page (username.github.io) then use these settings:
+url: "http://bkkkk.github.io"
+baseurl: ""
 
-# Jekyll configuration
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
 
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: pygments
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
+# Of course don't forget to change the username and projectname to YOUR username and project
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+# Name of website
+title: Jacobo Blanco
 
+# Short description of your site
+description: Thoughts on technology, research, and life in general
 
-# Site owner
-owner:
+# --- Navigation bar options --- #
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/bio-photo.jpg"
+
+# List of links in the navigation bar
+navbar-links:
+  Home: ""
+  About Me: "Data Scientist/Gamer/Optimizer of Things"
+  Contact: "contact"
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
   name: Jacobo Blanco
-  avatar: bio-photo.jpg
-  bio: "Gamer, scientist, programmer, wannabe pixel put-downer. I make strange noises when nobody is watching."
-  email: jayb88@gmail.com
-  disqus-shortname: codingpanda
-  twitter: masterjaysc
-  facebook: #username
-  google:
-    plus: #username
-    analytics: UA-58624713-1
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: bkkkk
-  stackoverflow: http://stackoverflow.com/users/1171374/jacobo-blanco
-  linkedin: #username
-  lastfm: #username
-  tumblr: #username
-  steam: #username
-  youtube: #username
+  email: "jayb88@domain.com"
+  github: bkkkk    # eg. daattali
+  twitter: bkkkk   # eg. daattali
+# linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
+# stackoverflow: yourlink  # eg. "users/3943160/daattali"
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: true
+  email: true
+  twitter: true
+  github: true
+  linkedin: false
+  stackoverflow: false
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "bkkk.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+
+# --- Misc --- #
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+#disqus: ""
+
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "Dublin/Ireland"
+markdown: kramdown
+highlighter: pygments
+permalink: /:year-:month-:day-:title
+paginate: 5
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true  # add comments to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "default"
+
+# Exclude these files from production site
+exclude:
+  - CNAME
+  - LICENSE
+  - README.md
+
+# prose.io options
+prose:
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - /_includes
+    - /_layouts
+    - /css
+    - /img
+    - /js
+
