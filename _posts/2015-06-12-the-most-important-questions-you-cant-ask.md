@@ -1,12 +1,6 @@
 ---
-layout: post
-type: post
 title: The most important questions you can't ask
-categories: Bus Blogs
-tags: [bus blos,life]
-published: true
-sharing: true
-comments: true
+date: 2015-06-12
 ---
 
 I was thinking about this while walking to the toilet a few days ago. I have a lot of this bathroom walk thoughts; mostly fleeting morsels of pseudo-intellectual bullshit, but this particular one stuck with me.

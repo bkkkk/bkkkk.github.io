@@ -1,13 +1,7 @@
 ---
-layout: post
 title: 'Thesis Tutorials #2: Folder structure'
 subtitle: 'Ducks in some linear representation'
 date: 2014-12-10
-tags: [latex]
-type: post
-published: true
-category: Thesis
-sharing: true
 ---
 
 A thesis is a giant document with many moving parts. You'll have multiple chapters, appendices, Tikz diagrams, PDF plots, Feynmf diagrams, bibliography, and a lot of words. Thankfully latex provides you with a few ways of organizing all of these.

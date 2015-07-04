@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Adventures in Refactoring - Part 1 Is it left or right?
 categories: [Adventures in Refactoring]
-tags: [refactoring,c++,clean code]
 published: True
 ---
 

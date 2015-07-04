@@ -1,10 +1,8 @@
 ---
-layout: post
 title: The Fellowship of The Data
 categories: [Fellowship]
 tags: [personal,big data]
 published: True
-
 ---
 
 Hey you how's it going? You looking mighty fine! *insert mandatory not blogged in a while excuse*.

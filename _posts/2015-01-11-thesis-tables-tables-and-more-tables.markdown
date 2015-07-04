@@ -1,14 +1,7 @@
 ---
-layout: post
 title: 'Thesis Tutorials #5: How to make tables'
 subtitle: 'Not the IKEA kind'
 date: 2015-01-12
-category: Thesis
-tags: [latex, thesis]
-type: post
-published: true
-comments: true
-sharing: true
 ---
 
 The role of a table is to help you **convince the reader** of the point you are trying to make. Good tables make for happy examiners, and happy examiners give you PhDs so it's well worth pleasing them.

@@ -1,11 +1,7 @@
 ---
-layout: post
 title: 'Thesis Tutorials #3: siunitx'
 subtitle: 'Its all about the units'
 date: 2014-12-14
-tags: [latex]
-type: post
-category: Thesis
 ---
 
 There are several packages you might find useful while putting together your thesis. In my case, I use over 20 packages. Some of them provide facilities that you'll use all over the place, while others are more specific. Over the next few posts I will cover some of the ones I've found useful.
