@@ -1,13 +1,11 @@
 ---
-title: 'Human ping-pong: or Managing Expectations'
+title: 'On Managing Expectations'
+subtitle: 'Human ping-pong'
 date: 2015-06-08
 layout: post
 type: post
-tags: [productivity, time management]
-categories: Blog Bus
 sharing: true
 comments: true
-published: true
 ---
 
 Today was a perfect example of what happens when you try to do too much with not enough time. 
@@ -22,13 +20,13 @@ I showed my supervisor the document I'd produced, he seemed pleased. Then he ask
 
 WHY IN THE HELL DID I SAY THAT I WOULD HAVE IT DONE BY THE END OF DAY?! DUMBASS!! The correct response would have been:
 
-    Since I have to extend the data simulation system, and I want to do this properly, I won't be done before Wednesday. I can send you what I have now and update you later, or just send the whole thing on Wednesday, what would you prefer?
+    "Since I have to extend the data simulation system, and I want to do this properly, I won't be done before Wednesday. I can send you what I have now and update you later, or just send the whole thing on Wednesday, what would you prefer?""
 
 I'm convinced my brain realized I'd fucked up and decided to punish me. Before the day was over I would:
 
-- Forgotten the PIN code to my ATM card right before lunch,
+- Forget the PIN code to my ATM card right before lunch,
 - Rush lunch to try and figure out the PIN,
-- Forget to specify where I was going when buying my ticket on the bus to town, and subsequently overpaid for my ticket without realizing,
+- Forget to specify where I was going when buying my ticket on the bus to town, subsequently I overpaid for my ticket without realizing,
 - Lose track of time and not update my supervisor on the situation,
 - Attempt to rush through submitting my expenses (because guess what? My account was setup 15 minutes before my bus left),
 - Pee in a hurry and not wash, running out of the building with my belt half on and zipper open,
