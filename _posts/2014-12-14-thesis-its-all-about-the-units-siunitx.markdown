@@ -1,15 +1,11 @@
 ---
 layout: post
-title: 'Thesis: Its all about the units - siunitx'
+title: 'Thesis Tutorials #3: siunitx'
+subtitle: 'Its all about the units'
 date: 2014-12-14
-tags: [latex, thesis, typeset]
+tags: [latex]
 type: post
 category: Thesis
-published: true
-comments: true
-sharing: true
-image:
-  feature: UnitBanner.jpg
 ---
 
 There are several packages you might find useful while putting together your thesis. In my case, I use over 20 packages. Some of them provide facilities that you'll use all over the place, while others are more specific. Over the next few posts I will cover some of the ones I've found useful.
@@ -34,9 +30,9 @@ $\sqrt{s}=\SI{8}{\TeV}$
 
 **Output**
 
-<img src="/images/Inline.png" alt="Inline example" />
+![Inline example](/img/Inline.png)
 
-<img src="/images/InEquation.png" alt="In equation example" />
+![In an equation example](/img/InEquation.png)
 
 ------
 
@@ -65,7 +61,7 @@ There is also a basic facility to render values with uncertainties as shown belo
 
 **Output example**
 
-<img src="/images/WithUncertainty.png" alt="Uncertainty example" />
+![Uncertainty example](/img/WithUncertainty.png)
 
 ------
 
@@ -84,8 +80,9 @@ Range and list commands are also defined, there are multiple options to configur
 
 **Output**
 
-<img src="/images/Range.png" alt="Range of numbers" />
-<img src="/images/List.png" alt="List of numbers" />
+![Range of numbers](/img/Range.png)
+
+![List of numbers](/img/List.png)
 
 ------
 
@@ -95,7 +92,7 @@ Siunitx can also help you typeset tables. For this purpose the package provides 
 
 -----
 
-<img src="/images/Table.png" alt="Example table">
+![Example table](/img/Table.png)
 
 -----
 
@@ -168,7 +165,7 @@ I have included a few commands to help with rendering asymmetric uncertainties a
 
 **Output**
 
-<img src="/images/AsymUncertainty.png">
+![](/img/AsymUncertainty.png)
 
 ### Multiple uncertainties
 
@@ -184,7 +181,7 @@ $\num{165}\;^{+\;10}_{-\;8}\stat\pm\num{17}\syst\si{\pico\barn}$
 
 **Output**
 
-<img src="/images/MultipleAsymmetric.png" alt="" >
+![](/img/MultipleAsymmetric.png)
 
 -----
 

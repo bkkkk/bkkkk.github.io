@@ -3,7 +3,7 @@ title: 'Thesis: The basics!'
 date: 2014-12-09
 layout: post
 type: post
-tags: [latex, thesis, typeset]
+tags: [latex]
 category: Thesis
 sharing: true
 comments: true

@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 'Thesis: Some opinionated tips'
+title: 'Thesis Tutorials #4'
+subtitle: 'Some opinionated tips'
 date: 2014-12-19
 tags: [latex, thesis, typeset]
 type: post
 category: Thesis
-sharing: true
 comments: true
-published: true
 ---
 
 As you work with Latex you'll pick up on a few themes. The basic functionality of latex covers a large number of use cases but not everything. As a result you'll rack up a lot of packages very quickly. Unfortunately the documentation for most packages leave much to be desired, and the latest and greatest approaches to certain things are not always documented clearly. This leads to you having to navigate a series of tex.se posts and ancient and cryptic sites before you find an easy and stable way of doing one thing.
@@ -49,7 +48,7 @@ in a final state SUSY signature.
 
 If you ever code anything that matters you have to put it into some kind of version control and have it backed up regularly to an off-site backup. I use git and github. If you only have a single copy of your thesis and you're not updating your backup constantly, you deserve whatever horrible thing happens to you.
 
-### Unicode support (Get yur umlaut on!)
+### Unicode support (Get yer umlaut on!)
 
 Latex unfortunately does not support utf8 by default, so you cannot directly type names with umlauts into your latex code. Luckily with only a couple of lines of code you can get support for those lovely foreign names.
 
@@ -89,6 +88,6 @@ pdflatex Thesis.tex
 
 **Sources**
 
- * [LaTeX taboos](http://anorien.csc.warwick.ac.uk/mirrors/CTAN/info/l2tabu/english/l2tabuen.pdf)
- * [Are \( and \) preferable to dollar signs for math mode?](http://tex.stackexchange.com/questions/510/are-and-preferable-to-dollar-signs-for-math-mode)
- * [bibtex vs. biber and biblatex vs. natbib](http://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib)
+- [LaTeX taboos](http://anorien.csc.warwick.ac.uk/mirrors/CTAN/info/l2tabu/english/l2tabuen.pdf)
+- [Are \( and \) preferable to dollar signs for math mode?](http://tex.stackexchange.com/questions/510/are-and-preferable-to-dollar-signs-for-math-mode)
+- [bibtex vs. biber and biblatex vs. natbib](http://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib)

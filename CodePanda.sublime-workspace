@@ -1,0 +1,2000 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"biblio",
+				"bibliography{file}	latex-document"
+			],
+			[
+				"end",
+				"end{equation}	Thesis.tex"
+			],
+			[
+				"full",
+				"citefullauthor{keylist}	natbib"
+			],
+			[
+				"bol",
+				"boldsymbol{math expression}	bm"
+			],
+			[
+				"hfil",
+				"hfill	tex"
+			],
+			[
+				"TopD3P",
+				"TopD3PDAnalysis"
+			],
+			[
+				"output",
+				"outputName"
+			],
+			[
+				"soft",
+				"softHistoName"
+			],
+			[
+				"vec",
+				"vec{a}	latex-mathsymbols"
+			],
+			[
+				"iffalse",
+				"iffalse..\\fi	tex"
+			],
+			[
+				"jetP",
+				"jetPt"
+			],
+			[
+				"he_",
+				"he_mv1_jet_pt"
+			],
+			[
+				"Eff",
+				"EffCollector"
+			],
+			[
+				"fina",
+				"finalTopBarSeq"
+			],
+			[
+				"prin",
+				"printParticleInfo"
+			],
+			[
+				"W",
+				"W"
+			],
+			[
+				"is",
+				"isInteresting"
+			],
+			[
+				"print",
+				"printf	printf …"
+			],
+			[
+				"m_evtStaco",
+				"m_evtStacoRecoCuts"
+			],
+			[
+				"neare",
+				"nearestMuonIdx"
+			],
+			[
+				"stacoMu",
+				"stacoMuonIdx"
+			],
+			[
+				"SMTMuo",
+				"SMTMuonCandidate"
+			],
+			[
+				"m_mipa",
+				"m_evtMi10Overlaped"
+			],
+			[
+				"m_truth",
+				"m_evtMuidTruthMatched"
+			],
+			[
+				"m_evtSMPas",
+				"m_evtSmtPassOverlaped"
+			],
+			[
+				"passTru",
+				"passTruthMatched"
+			],
+			[
+				"muonI",
+				"muonIndexes"
+			],
+			[
+				"sumOfTr",
+				"sumOfTrackPtMi10"
+			],
+			[
+				"slec",
+				"selectionModes"
+			],
+			[
+				"yield_",
+				"yield_mv1"
+			],
+			[
+				"yiel",
+				"yield_mv1"
+			],
+			[
+				"yield",
+				"yield_smt"
+			],
+			[
+				"m_bquark",
+				"m_bQuarksMatched"
+			],
+			[
+				"m_bq",
+				"m_bQuarksPresent"
+			],
+			[
+				"short",
+				"shorttask{arg1}{arg2}	Thesis.tex"
+			],
+			[
+				"muon",
+				"muonProbeSelector"
+			],
+			[
+				"Tn",
+				"TnPPair"
+			],
+			[
+				"general",
+				"generalStack"
+			],
+			[
+				"sampleId",
+				"sampleIdxGeneral"
+			],
+			[
+				"fill",
+				"hfill	tex"
+			],
+			[
+				"m_match",
+				"m_evtStacoMatchedToJet"
+			],
+			[
+				"matched",
+				"matchedMuon"
+			],
+			[
+				"fla",
+				"flavor_weight_MV1"
+			],
+			[
+				"m_jet",
+				"m_jetSmtTagged"
+			],
+			[
+				"cite",
+				"cite{keylist}	latex-document"
+			],
+			[
+				"subsection",
+				"subsection{title}	latex-document"
+			],
+			[
+				"lab",
+				"label{key}	latex-document"
+			],
+			[
+				"caption",
+				"caption{title}	latex-document"
+			],
+			[
+				"hfi",
+				"hfill	tex"
+			],
+			[
+				"makeat",
+				"makeatother	latex-document"
+			],
+			[
+				"p",
+				"pt	Thesis.tex"
+			],
+			[
+				"xs",
+				"xsm	Thesis.tex"
+			],
+			[
+				"mTile",
+				"mTileWidth"
+			],
+			[
+				"mMap",
+				"mMapHeight"
+			],
+			[
+				"Grab",
+				"GrabIntVariable"
+			],
+			[
+				"map",
+				"mapWidth"
+			],
+			[
+				"in",
+				"baselinestretch	Thesis.tex"
+			],
+			[
+				"histo",
+				"histoName"
+			],
+			[
+				"kDE",
+				"kDEBUG2"
+			],
+			[
+				"child",
+				"childItr"
+			],
+			[
+				"mc_",
+				"mc_child_index"
+			],
+			[
+				"entry",
+				"entryIndex"
+			],
+			[
+				"good",
+				"goodWMuons"
+			],
+			[
+				"dau",
+				"daughterItr"
+			],
+			[
+				"h_smt_p",
+				"h_smt_pt"
+			],
+			[
+				"h_mu",
+				"h_muid_N"
+			],
+			[
+				"h_staco_p",
+				"h_staco_pt"
+			],
+			[
+				"h_jet",
+				"h_jet_N"
+			],
+			[
+				"input",
+				"inputFilePath"
+			],
+			[
+				"Z",
+				"Zprime	Thesis.tex"
+			],
+			[
+				"cap",
+				"caption"
+			],
+			[
+				"inc",
+				"includegraphics"
+			],
+			[
+				"docu",
+				"documentclass{article}	New Article"
+			],
+			[
+				"sample",
+				"sampleIdx"
+			],
+			[
+				"effi",
+				"efficiencyNames"
+			],
+			[
+				"eff",
+				"effIdx"
+			],
+			[
+				"LOG_",
+				"LOG_INFO"
+			],
+			[
+				"histos",
+				"histosCollector"
+			],
+			[
+				"Ana",
+				"AnalysisMuonConfigurableScaleFactors"
+			],
+			[
+				"high",
+				"highPt"
+			],
+			[
+				"pt",
+				"ptBinFact"
+			],
+			[
+				"myRegionL",
+				"myRegionLabel"
+			],
+			[
+				"file",
+				"fileSuffixes"
+			],
+			[
+				"fileSuff",
+				"fileSuffixes"
+			],
+			[
+				"etaRegion",
+				"etaRegionText"
+			],
+			[
+				"region",
+				"regionIdx"
+			],
+			[
+				"lowe",
+				"lowestEdge"
+			],
+			[
+				"LOG_D",
+				"LOG_DEBUG3"
+			],
+			[
+				"ptcour",
+				"ptCourseLabel"
+			],
+			[
+				"ext",
+				"extPtBins"
+			],
+			[
+				"overr",
+				"overrideY"
+			],
+			[
+				"LOG",
+				"LOG_DEBUG2"
+			],
+			[
+				"Get",
+				"GetMaximum"
+			],
+			[
+				"inv",
+				"invMassFrame"
+			],
+			[
+				"low",
+				"lowLimit"
+			],
+			[
+				"rela",
+				"relativeUncertainty"
+			],
+			[
+				"relat",
+				"relativeDown"
+			],
+			[
+				"relative",
+				"relativeUp"
+			],
+			[
+				"TNP",
+				"TNPFITTER"
+			],
+			[
+				"fitt",
+				"fittingEdge"
+			],
+			[
+				"lowB",
+				"lowBkgHistoName"
+			],
+			[
+				"smt2dEf",
+				"smt2dEffData"
+			],
+			[
+				"recoda",
+				"reco2dEffData"
+			],
+			[
+				"globa",
+				"globalArraySlices"
+			],
+			[
+				"glo",
+				"globalFlatSlices"
+			],
+			[
+				"tnp",
+				"tnpSlices"
+			],
+			[
+				"bott",
+				"bottomUncertainty"
+			],
+			[
+				"LOG_DE",
+				"LOG_DEBUG2"
+			],
+			[
+				"ret",
+				"result"
+			],
+			[
+				"Lo",
+				"LOG_ERROR"
+			],
+			[
+				"count",
+				"countWithNoEF"
+			],
+			[
+				"fil",
+				"filePath"
+			],
+			[
+				"perio",
+				"periodName"
+			],
+			[
+				"Perio",
+				"PeriodInput"
+			],
+			[
+				"Pileup",
+				"PileupReweighting"
+			],
+			[
+				"prw",
+				"prwConfiguration"
+			],
+			[
+				"ilumi",
+				"ilumiCalcFile"
+			],
+			[
+				"Pro",
+				"processingTag"
+			],
+			[
+				"submit",
+				"submitDir"
+			],
+			[
+				"process",
+				"processingTag"
+			],
+			[
+				"proces",
+				"processingTag"
+			],
+			[
+				"Sample",
+				"Sample"
+			],
+			[
+				"inpu",
+				"inputStringStream"
+			],
+			[
+				"smtEf",
+				"smtEffData"
+			],
+			[
+				"fitEf",
+				"fitEfficiencyMc"
+			],
+			[
+				"te",
+				"testMCFile"
+			],
+			[
+				"TNPFI",
+				"TnPFitter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"image",
+				"Snippet: Markdown_image_(mdi)"
+			],
+			[
+				"link",
+				"Snippet: Markdown_link_(mdl)"
+			],
+			[
+				"lint view",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"c++",
+				"Build With: C++11 - Run"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"jeky",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"post ",
+				"Jekyll: New post"
+			],
+			[
+				"new",
+				"Jekyll: New post"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"markdown",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"jekyll",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"task",
+				"Snippet: task :task_name => [:dependent, :tasks] do .. end"
+			],
+			[
+				"promote",
+				"Jekyll: Promote draft to post..."
+			],
+			[
+				"new draft",
+				"Jekyll: New draft"
+			],
+			[
+				"high",
+				"Snippet: highlight"
+			],
+			[
+				"jek",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"snippet high",
+				"Snippet: highlight"
+			],
+			[
+				"snippet",
+				"Snippet: highlight"
+			],
+			[
+				"style",
+				"Clang Format: Select Style"
+			],
+			[
+				"syntax C++",
+				"Set Syntax: C++11"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"highligh",
+				"Snippet: highlight"
+			],
+			[
+				"new post",
+				"Jekyll: New post"
+			],
+			[
+				"new ",
+				"Jekyll: New post"
+			],
+			[
+				"underline",
+				"MarkdownEditing: Fix Underlined Headers"
+			],
+			[
+				"front",
+				"Snippet: set the front-matter for a jekyll post"
+			],
+			[
+				"je",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"draft",
+				"Jekyll: New draft"
+			],
+			[
+				"current date",
+				"Jekyll: Insert current date"
+			],
+			[
+				"syntaxjek",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"project edi",
+				"Project: Edit"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"prew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"synta bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"new pst",
+				"Jekyll: New post"
+			],
+			[
+				"check",
+				"LaTeXing: Check System"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prewivew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Preivew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"log",
+				"LaTeXing: Show Log Panel"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"latexing settings",
+				"Preferences: LaTeXing Settings - User (Extended)"
+			],
+			[
+				"choose",
+				"Build: Choose Quick Build"
+			],
+			[
+				"Build",
+				"Build: Choose Quick Build"
+			],
+			[
+				"latexing",
+				"Preferences: LaTeXing Settings - User"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"theory",
+				"LaTeXing: Word to Phrases Dictionary"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"Snippet: Bibtex misc",
+				"Snippet: BibTeX Misc"
+			],
+			[
+				"Snippet: Bibtex pro",
+				"Snippet: BibTeX Proceedings"
+			],
+			[
+				"Snippet: Bibtex book",
+				"Snippet: BibTeX Book"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"aligne",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"alignm",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"latexcount",
+				"LaTeXing: Texcount"
+			],
+			[
+				"tasks",
+				"Tasks: Cancel"
+			],
+			[
+				"show",
+				"LaTeXing: Show Log Panel"
+			],
+			[
+				"Snippet: Bibtex art",
+				"Snippet: BibTeX Article"
+			],
+			[
+				"Snippet: Bibtex repo",
+				"Snippet: BibTeX Techreport"
+			],
+			[
+				"Snippet: Bibtex report",
+				"Snippet: BibTeX Techreport"
+			],
+			[
+				"Snippet: Bibtex ar",
+				"Snippet: BibTeX Article"
+			],
+			[
+				"Count",
+				"LaTeXing: Texcount"
+			],
+			[
+				"PDF ",
+				"LaTeXing: Jump To PDF"
+			],
+			[
+				"sync",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"Commen",
+				"Toggle Block Comment"
+			],
+			[
+				"bind",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"Phrases",
+				"LaTeXing: Word to Phrases Dictionary"
+			],
+			[
+				"dictiona",
+				"Dictionaries: Set Language"
+			],
+			[
+				"Diction",
+				"LaTeXing: Word to Phrases Dictionary"
+			],
+			[
+				"Dictionary",
+				"Snippet: LaTeXing Option Dictionary"
+			],
+			[
+				"diction",
+				"Snippet: LaTeXing Option Dictionary"
+			],
+			[
+				"ConvertCase",
+				"Convert Case: Title Case"
+			],
+			[
+				"Convertcase",
+				"Convert Case: Swap Case"
+			],
+			[
+				"syncro",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"showlog",
+				"LaTeXing: Show Log Panel"
+			],
+			[
+				"Snippet: Bibtex at",
+				"Snippet: BibTeX Article"
+			],
+			[
+				"Snippet: ",
+				"Snippet: BibTeX Article"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"Latexing log",
+				"LaTeXing: Show Log Panel"
+			],
+			[
+				"cancel",
+				"Tasks: Cancel"
+			],
+			[
+				"subfi",
+				"Snippet: subfigure_two"
+			],
+			[
+				"toggle blo",
+				"Toggle Block Comment"
+			],
+			[
+				"Block ",
+				"Toggle Block Comment"
+			],
+			[
+				"toglecomm",
+				"Toggle Block Comment"
+			],
+			[
+				"toggle",
+				"LaTeXing: Toggle TikZ Live Preview"
+			],
+			[
+				"tikz",
+				"Set Syntax: LaTeXing (TikZ)"
+			],
+			[
+				"prefernces",
+				"Preferences: Settings - User"
+			],
+			[
+				"Latexing tikz",
+				"Set Syntax: LaTeXing (TikZ)"
+			],
+			[
+				"Thesis",
+				"Snippet: BibTeX PhD Thesis"
+			],
+			[
+				"Snippet: Bibtex article",
+				"Snippet: BibTeX Article"
+			],
+			[
+				"",
+				"Build: Build"
+			],
+			[
+				"mardowngit",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"gitmarkdown",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"makrdobn",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"open",
+				"Tasks: Open URL"
+			],
+			[
+				"fold sec",
+				"LaTeXing: Fold Section"
+			],
+			[
+				"fold section ",
+				"LaTeXing: Fold Section"
+			],
+			[
+				"fold",
+				"LaTeXing: Fold Section"
+			],
+			[
+				"pdf",
+				"LaTeXing: Jump To PDF"
+			],
+			[
+				"bibtex",
+				"Snippet: BibTeX Misc"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"synch",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"lineno",
+				"LaTeXing: Insert TeX Symbol"
+			],
+			[
+				"choos",
+				"Build: Choose Quick Build"
+			],
+			[
+				"quick",
+				"Build: Primary Quick Build"
+			],
+			[
+				"Snippet: Bibtex arti",
+				"Snippet: BibTeX Article"
+			],
+			[
+				"Snippet: Bibtex b",
+				"Snippet: BibTeX Book"
+			],
+			[
+				"Synch",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"synchr",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"synchro",
+				"LaTeXing: Synchronise Remote Data"
+			],
+			[
+				"bold",
+				"Snippet: Boldface Text"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 179.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"pomodoro stop",
+			"pomodoro",
+			"cls",
+			"clear",
+			"clear()",
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"view.run_command(\"example\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jayb88/Projects/Website/bkkkk.github.io"
+	],
+	"file_history":
+	[
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown",
+		"/Users/jayb88/Projects/beautiful-jekyll/_config.yml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/README.md",
+		"/Users/jayb88/Projects/beautiful-jekyll/index.html",
+		"/Users/jayb88/Projects/beautiful-jekyll/contact.md",
+		"/Users/jayb88/Projects/beautiful-jekyll/aboutme.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/variables.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_config.yml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/typography.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/site.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/pygments.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/print.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/page.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/normalize.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/mixins.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/grid.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/forms.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/elements.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/coderay.scss",
+		"/Users/jayb88/Dropbox/Projects/yelp/yelp_test.cpp",
+		"/Users/jayb88/Dropbox/Resources/JournalingTemplates/make-entry.sh",
+		"/Users/jayb88/Dropbox/Resources/JournalingTemplates/dayone-template.txt",
+		"/Users/jayb88/Downloads/Slogger-master/slogger_config",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-06-11-no-ideas.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-03-07-adventures-in-refactoring-is-it-left-or-right.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_drafts/2015-03-10-adventures-in-refactoring-accept-or-reject.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/large_table_example.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/List.png",
+		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Jekyll).sublime-settings",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-02-18-the-fellowship-of-the-data.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/rakefile",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_drafts/2015-03-07-adventures-in-refactoring-is-it-left-or-right.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_data/authors.yml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/The-Economist-chart-of-IT-tech-giants.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/assets/js/vendor/html5shiv.min.js",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-19-thesis-before-you-embark-on-your-journey.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/musing.sublime-project",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/index.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gruntfile.js",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/feed.xml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/favicon.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/favicon.ico",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_octopress.yml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/404.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-01-11-thesis-tables-tables-and-more-tables.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_drafts/2015-01-15-thesis--making-pretty-good-feynman-diagrams.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-01-08-learning-all-the-programmings.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-02-09-experimenting-with-a-pretend-retrospective.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_data/navigation.yml",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/package.json",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/musing.sublime-workspace",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/vendor/font-awesome/_bordered-pulled.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/assets/js/plugins/jquery.fitvids.js",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_sass/vendor/font-awesome/_path.scss",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/Inline.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/MontreuxPanorama.png",
+		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-01-15-thesis--using-feynmf-to-make-feynman-diagrams.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_includes/_author-bio.html",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_layouts/post.html",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/WithUncertainty.png",
+		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/User/Jekyll.sublime-build",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/apple-touch-icon-precomposed.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/default-thumb.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/posts/index.md",
+		"/Users/jayb88/.zpreztorc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_includes/_browser-upgrade.html",
+		"/Users/jayb88/.gitignore_global",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/SingleUnit.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/AsymUncertainty.png",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_templates/archive",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_layouts/home.html",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/variables.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/typography.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/site.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/pygments.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/page.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/normalize.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/mixins.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/grid.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/forms.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/elements.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/coderay.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/_syntax-highlighting.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/_layout.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/c1891733e82b4df70e77976b446bc11b333d0540/_base.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/font-awesome.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/_variables.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/_stacked.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/_spinning.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/_rotated-flipped.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/_path.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/_mixins.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/_list.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/_larger.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/_icons.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/_fixed-width.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/_core.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/36064262976acc431da2ed911e805381ffb6fe8f/_bordered-pulled.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/351e58759e60234e60c1265a8bc1fc0ba09f405d/magnific-popup.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/.sass-cache/351e58759e60234e60c1265a8bc1fc0ba09f405d/_settings.scssc",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gemfile.lock",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/Gemfile",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/images/MultipleAsymmetric.png",
+		"/Users/jayb88/Downloads/new-page/_sass/vendor/font-awesome/_larger.scss",
+		"/Users/jayb88/Downloads/new-page/_sass/forms.scss",
+		"/Users/jayb88/Downloads/new-page/favicon.ico",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartCrossSection/CrossSection.tex",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/MacroDefs.sty",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartCalibration2012/CalibrationMCPCuts.tex",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartTopQuark/Diagrams/TopProdgg2g2ttbar.tex",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartBoosted/Plots/Boosted.pdf_tex",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartBoosted/Boosted.tex",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartDetector/Detector.tex",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/BoilerPlate/Declaration.tex",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartDetector/DetectorElectronID.tex",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/Thesis.bib",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/Todo.todo",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/Thesis.tex",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/BoilerPlate/PageTitle.tex",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartTheory/Theory.tex",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/README.md",
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartTheory/Diagrams/WeakCharged.tex"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.markdown",
+			"*.md",
+			"",
+			"*.tex",
+			"OutputThesis.bib",
+			"Thesis.bib",
+			"*.tex",
+			"",
+			"*.tex"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" * ",
+			"\")",
+			"images",
+			"\" />",
+			"alt=",
+			"<img src=\"",
+			"false",
+			"return 0",
+			"TJPSITASELECTOR_H_",
+			"fig",
+			"[]",
+			"sharing",
+			"category",
+			"post.",
+			"page.",
+			"**",
+			"]:",
+			"**:",
+			"\n**",
+			"intercolumn",
+			"* **",
+			"* ",
+			"[1]",
+			"1",
+			"](",
+			"stack",
+			"aside",
+			"image",
+			"\\stat",
+			"syst",
+			"asymUnc",
+			"asym",
+			"\\;",
+			"siRange",
+			"Range",
+			".tex",
+			"input",
+			" |",
+			"| ",
+			" | ",
+			"| ",
+			" | ",
+			"| ",
+			"|",
+			"| Done |",
+			"| -- |",
+			"|",
+			"| ",
+			"|",
+			" ",
+			"\n|",
+			"|",
+			"| ",
+			">",
+			"<",
+			":",
+			"@medium",
+			"@done (",
+			"@project",
+			" ✔ ",
+			":",
+			"@medium ",
+			"@long",
+			"@",
+			"@done",
+			"@done (14-12-08 22:39) @project(Cross-section)",
+			":",
+			" ✔ ",
+			"✔ ",
+			" @medium",
+			"@short",
+			"✔ ",
+			" ✔ ",
+			"Reference",
+			":",
+			"@short",
+			"@medium",
+			"@done",
+			"@project(Post-viva Corrections / Top Quark)",
+			" ✔ ",
+			"Add",
+			"@done",
+			" ✔ ",
+			":",
+			"@done ",
+			"@project(Post-viva Corrections / Theory)",
+			"✔ ",
+			"Page",
+			":",
+			"@medium",
+			"(",
+			" (14",
+			"(Post-viva Corrections / Resonance)",
+			"@project",
+			"(14-12-03",
+			"@short",
+			"@done",
+			"✔ ",
+			":",
+			"(14-12-02",
+			"@short",
+			"@long",
+			"(14-12-03",
+			"@medium",
+			"@done",
+			"@project(Post-viva Corrections / Detector)",
+			" ✔ ",
+			"@project(Post-viva Corrections /",
+			"(14-12-08",
+			"@short",
+			" @done",
+			"✔ ",
+			":",
+			"@short",
+			" ✔ ",
+			"@medium",
+			"@done",
+			"(14-12",
+			"@project",
+			"(Post-viva Corrections / Calibration)",
+			"(",
+			":",
+			"Introduction",
+			"Theory",
+			"Detector",
+			"Resonance",
+			"Bibliography",
+			"Calibration"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"http://dx.doi.org/10.",
+			"and",
+			"covariance",
+			"tab:",
+			"end-cap",
+			"hadronizing",
+			"pile-up",
+			"\\centering",
+			"centre",
+			"centre of mass",
+			"\\bar",
+			"branching ratio"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "CodePanda.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown"
+			],
+			[
+				"scss",
+				"_sass/variables.scss"
+			],
+			[
+				"sass",
+				"_sass/site.scss"
+			],
+			[
+				"_confi",
+				"_config.yml"
+			],
+			[
+				"confi",
+				"_config.yml"
+			],
+			[
+				"project",
+				"musing.sublime-project"
+			],
+			[
+				"leftor",
+				"_posts/2015-03-07-adventures-in-refactoring-is-it-left-or-right.md"
+			],
+			[
+				"draft",
+				"_drafts/2015-03-10-adventures-in-refactoring-accept-or-reject.md"
+			],
+			[
+				"con",
+				"_config.yml"
+			],
+			[
+				"advent",
+				"_drafts/2015-03-07-adventures-in-refactoring-is-it-left-or-right.md"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"2014",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				"201",
+				"_drafts/2015-01-15-thesis--making-pretty-good-feynman-diagrams.md"
+			],
+			[
+				"drafts",
+				"_drafts/2015-01-15-thesis--making-pretty-good-feynman-diagrams.md"
+			],
+			[
+				"md",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				"coni",
+				"_config.yml"
+			],
+			[
+				"in",
+				"index.md"
+			],
+			[
+				"index",
+				"index.md"
+			],
+			[
+				"markdown",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				"writi",
+				"_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown"
+			],
+			[
+				"markd",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				".md",
+				"_posts/2015-01-11-thesis-tables-tables-and-more-tables.markdown"
+			],
+			[
+				"before",
+				"_posts/2014-12-19-thesis-before-you-embark-on-your-journey.markdown"
+			],
+			[
+				"thebasics",
+				"_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown"
+			],
+			[
+				"siunitx",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				"nva",
+				"_data/navigation.yml"
+			],
+			[
+				"markdo",
+				"_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown"
+			],
+			[
+				"authors",
+				"_data/authors.yml"
+			],
+			[
+				"navit",
+				"_data/navigation.yml"
+			],
+			[
+				".yml",
+				"_data/authors.yml"
+			],
+			[
+				"mark",
+				"_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown"
+			],
+			[
+				"home",
+				"_layouts/home.html"
+			],
+			[
+				"folder",
+				"_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown"
+			],
+			[
+				"mcar",
+				"MacroDefs.sty"
+			],
+			[
+				"macros",
+				"MacroDefs.sty"
+			],
+			[
+				"detec",
+				"PartDetector/Detector.tex"
+			],
+			[
+				"detector",
+				"PartDetector/DetectorElectronID.tex"
+			],
+			[
+				"theory",
+				"PartTheory/Theory.tex"
+			],
+			[
+				"page",
+				"BoilerPlate/PageTitle.tex"
+			],
+			[
+				"thesis",
+				"Thesis.tex"
+			],
+			[
+				"calib",
+				"PartCalibration2012/Calibration2012.tex"
+			],
+			[
+				"todo",
+				"Todo.todo"
+			],
+			[
+				"object",
+				"PartObjectSelection/ObjectSelection.tex"
+			],
+			[
+				"cross",
+				"PartCrossSection/CrossSection.tex"
+			],
+			[
+				"thesis.tex",
+				"Thesis.tex"
+			],
+			[
+				"thes",
+				"Thesis.bib"
+			],
+			[
+				"paget",
+				"BoilerPlate/PageTitle.tex"
+			],
+			[
+				"topquar",
+				"PartTopQuark/TopQuark.tex"
+			],
+			[
+				"topprodcrossgg2ttbar",
+				"PartTopQuark/Diagrams/TopProdCrossGG2ttbar.tex"
+			],
+			[
+				"gg2",
+				"PartTopQuark/Diagrams/TopProdgg2g2ttbar.tex"
+			],
+			[
+				"preface",
+				"Preface.tex"
+			],
+			[
+				"thesi",
+				"Thesis.tex"
+			],
+			[
+				"latex",
+				".latexmkrc"
+			],
+			[
+				"thesis.bib",
+				"Thesis.bib"
+			],
+			[
+				"thesis.",
+				"Thesis.tex"
+			],
+			[
+				"newout",
+				"NewOutput.bib"
+			],
+			[
+				"output",
+				"NewOutput.bib"
+			],
+			[
+				"newo",
+				"NewOutput.bib"
+			],
+			[
+				"out",
+				"OutputThesis.bib"
+			],
+			[
+				"topquakr",
+				"PartTopQuark/TopQuark.tex"
+			],
+			[
+				"thesis.bi",
+				"Thesis.bib"
+			],
+			[
+				"topqu",
+				"PartTopQuark/TopQuark.tex"
+			],
+			[
+				"todo.to",
+				"Todo.todo"
+			],
+			[
+				"thesisbib",
+				"Thesis.bib"
+			],
+			[
+				"deteco",
+				"PartDetector/Detector.tex"
+			],
+			[
+				"mac",
+				"MacroDefs.sty"
+			],
+			[
+				"crosss",
+				"PartCrossSection/CrossSection.tex"
+			],
+			[
+				"calibration",
+				"PartCalibration2012/Calibration2012.tex"
+			],
+			[
+				"obj",
+				"PartObjectSelection/ObjectSelection.tex"
+			],
+			[
+				"boost",
+				"PartBoosted/Boosted.tex"
+			],
+			[
+				"conc",
+				"Conclusions.tex"
+			],
+			[
+				"dete",
+				"PartDetector/Detector.tex"
+			],
+			[
+				"boosted",
+				"PartBoosted/Boosted.tex"
+			],
+			[
+				"thesis.te",
+				"Thesis.tex"
+			],
+			[
+				"selec",
+				"PartObjectSelection/ObjectSelection.tex"
+			],
+			[
+				"dete.tex",
+				"PartDetector/Detector.tex"
+			],
+			[
+				"detector.tex",
+				"PartDetector/Detector.tex"
+			],
+			[
+				"thoery",
+				"PartTheory/Theory.tex"
+			],
+			[
+				"detecto",
+				"PartDetector/Detector.tex"
+			],
+			[
+				"detector.te",
+				"PartDetector/Detector.tex"
+			],
+			[
+				"intro",
+				"PartIntroduction/Introduction.tex"
+			],
+			[
+				"topquark",
+				"PartTopQuark/TopQuark.tex"
+			],
+			[
+				"particle",
+				"PartTheory/Diagrams/ParticleTable.tikz"
+			],
+			[
+				"derec",
+				"PartDetector/Detector.tex"
+			],
+			[
+				"prefa",
+				"Preface.tex"
+			],
+			[
+				"abst",
+				"PartAbstract/Abstract.tex"
+			],
+			[
+				"electro",
+				"PartDetector/DetectorElectronID.tex"
+			],
+			[
+				"app",
+				"PartCalibration2012/CalibrationApp.tex"
+			],
+			[
+				"tex",
+				"PartBoosted/Boosted.tex"
+			],
+			[
+				"pref",
+				"Preface.tex"
+			],
+			[
+				"int",
+				"PartIntroduction/Introduction.tex"
+			],
+			[
+				"ab",
+				"PartAbstract/Abstract.tex"
+			],
+			[
+				"booste",
+				"PartBoosted/Boosted.tex"
+			],
+			[
+				"detect",
+				"PartDetector/Detector.tex"
+			],
+			[
+				"ac",
+				"BoilerPlate/Acknowledgements.tex"
+			],
+			[
+				"title",
+				"BoilerPlate/PageTitle.tex"
+			],
+			[
+				"decal",
+				"BoilerPlate/Declaration.tex"
+			],
+			[
+				"cali",
+				"PartCalibration2012/Calibration2012.tex"
+			],
+			[
+				"calibra",
+				"PartCalibration2012/Calibration2012.tex"
+			],
+			[
+				"calibrat",
+				"PartCalibration2012/Calibration2012.tex"
+			],
+			[
+				"abs",
+				"PartAbstract/Abstract.tex"
+			],
+			[
+				"boo",
+				"PartBoosted/Boosted.tex"
+			],
+			[
+				"abstr",
+				"PartAbstract/Abstract.tex"
+			],
+			[
+				"abasta",
+				"PartAbstract/Abstract.tex"
+			],
+			[
+				"boosted.tex",
+				"PartBoosted/Boosted.tex"
+			],
+			[
+				"boosted.",
+				"PartBoosted/Boosted.tex"
+			],
+			[
+				"make",
+				"PartBoosted/Plots/MakeNonBoosted.tex"
+			],
+			[
+				"boosted_",
+				"PartBoosted/Plots/Boosted.pdf_tex"
+			],
+			[
+				"non",
+				"PartBoosted/Plots/NonBoosted.pdf_tex"
+			],
+			[
+				"nonboo",
+				"PartBoosted/Plots/NonBoosted.svg"
+			],
+			[
+				"cros",
+				"PartCrossSection/CrossSection.tex"
+			],
+			[
+				"electron",
+				"PartDetector/DetectorElectronID.tex"
+			],
+			[
+				"electr",
+				"PartDetector/DetectorElectronID.tex"
+			],
+			[
+				"cro",
+				"PartCrossSection/CrossSection.tex"
+			],
+			[
+				"theo",
+				"PartTheory/Theory.tex"
+			],
+			[
+				"theor",
+				"PartTheory/Theory.tex"
+			],
+			[
+				"ack",
+				"BoilerPlate/Acknowledgements.tex"
+			],
+			[
+				"dec",
+				"BoilerPlate/Declaration.tex"
+			],
+			[
+				"editi",
+				"EditingTrigger.todo"
+			],
+			[
+				"fake",
+				"PartCrossSection/Diagram/Feynman/MultijetFakeLeptoin.tex"
+			],
+			[
+				"w",
+				"PartCrossSection/Diagram/Feynman/WJetsEx.tex"
+			],
+			[
+				"single",
+				"PartCrossSection/Diagram/Feynman/SingleTop.tex"
+			],
+			[
+				"diboson",
+				"PartCrossSection/Diagram/Feynman/DibosonEx.tex"
+			],
+			[
+				"z",
+				"PartCrossSection/Diagram/Feynman/ZJetsEx.tex"
+			],
+			[
+				"wjets",
+				"PartCrossSection/Diagram/Feynman/WJetsEx.tex"
+			],
+			[
+				"cova",
+				"PartDetector/CovMatrix.tex"
+			],
+			[
+				"tikz",
+				"PartDetector/Diagrams/IPDiagram.tikz"
+			],
+			[
+				"covar",
+				"PartDetector/CovMatrix.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
