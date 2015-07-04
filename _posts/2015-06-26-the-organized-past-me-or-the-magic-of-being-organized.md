@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The organized past me or the magic of being organized
-categories: []
+title: The magic of organization
+subtitle: Helping my future self
 tags: [gtd]
 published: True
 ---
@@ -18,7 +18,6 @@ Get internet connection:
 - Find out which paperwork you need
 - Put paperwork in bag
 - Go to the store and sign up.
-
 
 Now it could be that one Thursday I put the paperwork in my bag and completely forget about it. Come Monday I make my way to the store because that's what the todo list says. But shit the paperwork I forgot! Oh wait it's in my bag! My past self is so smart and organized, thanks buddy!
 
