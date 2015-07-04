@@ -1,13 +1,13 @@
 ---
-title: 'Thesis: The basics!'
-date: 2014-12-09
 layout: post
+title: 'Thesis Tutorials #1: Thesis 101'
+subtitle: 'Back to basics'
+date: 2014-12-09
 type: post
 tags: [latex]
 category: Thesis
 sharing: true
 comments: true
-published: true
 ---
 
 This series will assume you have some basic understanding of LaTeX and have written and compiled a document in Latex before. If you haven't, take a look at this [Latex Wikibook](http://en.wikibooks.org/wiki/LaTeX). It's very readable with some nice illustrative examples and covers a range of techniques at different experience levels.

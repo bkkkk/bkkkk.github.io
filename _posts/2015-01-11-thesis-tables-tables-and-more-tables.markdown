@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Thesis: Tables, Tables, and more Tables'
+title: 'Thesis Tutorials #5: How to make tables'
+subtitle: 'Not the IKEA kind'
 date: 2015-01-12
 category: Thesis
 tags: [latex, thesis]

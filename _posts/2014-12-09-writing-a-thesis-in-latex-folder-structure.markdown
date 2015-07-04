@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Thesis: Folder structure'
-date: 2014-12-09
+title: 'Thesis Tutorials #2: Folder structure'
+subtitle: 'Ducks in some linear representation'
+date: 2014-12-10
 tags: [latex]
 type: post
 published: true

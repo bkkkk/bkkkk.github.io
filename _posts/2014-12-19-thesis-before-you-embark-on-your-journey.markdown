@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Thesis Tutorials #4'
-subtitle: 'Some opinionated tips'
+title: 'Thesis Tutorials #4: Some opinionated tips'
+subtitle: 'Do or do not do, there is no try'
 date: 2014-12-19
 tags: [latex, thesis, typeset]
 type: post
@@ -11,25 +11,27 @@ comments: true
 
 As you work with Latex you'll pick up on a few themes. The basic functionality of latex covers a large number of use cases but not everything. As a result you'll rack up a lot of packages very quickly. Unfortunately the documentation for most packages leave much to be desired, and the latest and greatest approaches to certain things are not always documented clearly. This leads to you having to navigate a series of tex.se posts and ancient and cryptic sites before you find an easy and stable way of doing one thing.
 
+# For the journey ahead
+
 This is an unfortunate journey that you will have to take if you want to typeset a good looking document. You will learn a lot from it and that's something you will never lose. What follows is a list of a few nuggets I picked up along the way, this list will get larger as I come up with things.
 
-### Use the chktex linter
+**Use the chktex linter**
 
 I've mentioned this before, but this application produces a list of "errors" found in your tex files. These are not errors that will prevent the document compiling, but rather misuses of commands that might cause things not to typeset correctly.
 
-### Use the l2tabu package
+**Use the l2tabu package**
 
 This package codifies a few [LaTeX taboos](http://anorien.csc.warwick.ac.uk/mirrors/CTAN/info/l2tabu/english/l2tabuen.pdf) and will warn you while compiling if these are detected. Use personal judgement here.
 
-### Do not use \$\$...\$\$
+**Do not use \$\$...\$\$**
 
 The $$...$$ is a TeX primitive and can sometimes produce incorrect spacing. Instead use the more modern Latex command \\[...\\] or \begin{equation} from the package **amsmath**. I use the _equation_ environment as it feels cleaner to me and is more consistent with uses of the environment _align_.
 
-### Do not use $...$
+**Do not use $...$**
 
 Similar to the above, use \\(...\\) instead. Load the **fixltx2e** package to fix a handful of issues including some rendering quirk with \\(...\\).
 
-### Define new commands for concepts
+**Define new commands for concepts**
 
 Define new commands to codify concepts and improve readability of code. For example, I've defined a new command to represent missing energy:
 
@@ -44,11 +46,11 @@ A large amount of \met\ is expected
 in a final state SUSY signature.
 {% endhighlight %}
 
-### Use version control
+**Use version control**
 
 If you ever code anything that matters you have to put it into some kind of version control and have it backed up regularly to an off-site backup. I use git and github. If you only have a single copy of your thesis and you're not updating your backup constantly, you deserve whatever horrible thing happens to you.
 
-### Unicode support (Get yer umlaut on!)
+**Unicode support (Get yer umlaut on!)**
 
 Latex unfortunately does not support utf8 by default, so you cannot directly type names with umlauts into your latex code. Luckily with only a couple of lines of code you can get support for those lovely foreign names.
 
@@ -60,7 +62,7 @@ Latex unfortunately does not support utf8 by default, so you cannot directly typ
 
 What these packages do has been explained by more capable people than me on [tex.se](http://tex.stackexchange.com/questions/44694/fontenc-vs-inputenc). The **lmodern** package loads the font _Latin Modern_, which is a different font family to the latex default _Computer Modern_. If you just want to use cm simply load the fontenc and inputenc packages and the cm-super font, with additional glyphs, should load automatically.
 
-## Managing your bibliography
+# Managing your bibliography
 
 Bibliographies are handled by roughly two components, first the external application, traditionally bibtex which processes the bibliography **.bib** file and a package like **natbib** which handles the formatting of the citations in your document.
 
