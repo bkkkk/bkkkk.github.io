@@ -517,9 +517,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"build_system_choices":
 	[
@@ -531,6 +528,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"jekyll",
+				"Set Syntax: Markdown (Jekyll)"
+			],
+			[
+				"ma",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"marl",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"img",
+				"Snippet: Markdown_image_(mdi)"
+			],
 			[
 				"image",
 				"Snippet: Markdown_image_(mdi)"
@@ -578,14 +595,6 @@
 			[
 				"lint",
 				"SublimeLinter: Toggle Linter"
-			],
-			[
-				"markdown",
-				"MarkdownEditing: Markdown Lint"
-			],
-			[
-				"jekyll",
-				"Set Syntax: Markdown (Jekyll)"
 			],
 			[
 				"task",
@@ -1030,18 +1039,6 @@
 			[
 				"Synch",
 				"LaTeXing: Synchronise Remote Data"
-			],
-			[
-				"synchr",
-				"LaTeXing: Synchronise Remote Data"
-			],
-			[
-				"synchro",
-				"LaTeXing: Synchronise Remote Data"
-			],
-			[
-				"bold",
-				"Snippet: Boldface Text"
 			]
 		],
 		"width": 504.0
@@ -1073,13 +1070,11 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/jayb88/Projects/Website/bkkkk.github.io"
-	],
 	"file_history":
 	[
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-02-18-the-fellowship-of-the-data.md",
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-01-11-thesis-tables-tables-and-more-tables.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-14-thesis-its-all-about-the-units-siunitx.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown",
 		"/Users/jayb88/Projects/beautiful-jekyll/_config.yml",
@@ -1112,7 +1107,6 @@
 		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
 		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/jayb88/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Jekyll).sublime-settings",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-02-18-the-fellowship-of-the-data.md",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/rakefile",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_drafts/2015-03-07-adventures-in-refactoring-is-it-left-or-right.md",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_data/authors.yml",
@@ -1127,7 +1121,6 @@
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/favicon.ico",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_octopress.yml",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/404.md",
-		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-01-11-thesis-tables-tables-and-more-tables.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_drafts/2015-01-15-thesis--making-pretty-good-feynman-diagrams.md",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-01-08-learning-all-the-programmings.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-02-09-experimenting-with-a-pretend-retrospective.md",
@@ -1210,13 +1203,15 @@
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
 		"height": 93.0,
 		"where_history":
 		[
+			"*.markdown",
+			"*.md",
 			"*.markdown",
 			"*.md",
 			"",
@@ -1233,6 +1228,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"### ",
+			"images",
+			"/images/",
+			" * ",
+			"images",
+			"<img",
+			"## ",
+			"**\n",
+			"#### ",
+			"* ",
+			"<img",
 			" * ",
 			"\")",
 			"images",
@@ -1349,18 +1355,7 @@
 			"@short",
 			" ✔ ",
 			"@medium",
-			"@done",
-			"(14-12",
-			"@project",
-			"(Post-viva Corrections / Calibration)",
-			"(",
-			":",
-			"Introduction",
-			"Theory",
-			"Detector",
-			"Resonance",
-			"Bibliography",
-			"Calibration"
+			"@done"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1387,14 +1382,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 25.0
@@ -1438,8 +1425,11 @@
 	{
 		"height": 112.0
 	},
+	"output.mde":
+	{
+		"height": 112.0
+	},
 	"pinned_build_system": "",
-	"project": "CodePanda.sublime-project",
 	"replace":
 	{
 		"height": 46.0
@@ -1451,6 +1441,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"tables",
+				"_posts/2015-01-11-thesis-tables-tables-and-more-tables.markdown"
+			],
+			[
+				"thesis",
+				"_posts/2014-12-19-thesis-before-you-embark-on-your-journey.markdown"
+			],
+			[
+				"basics",
+				"_posts/2014-12-09-writing-a-thesis-in-latex-the-basics.markdown"
+			],
+			[
+				"_posts",
+				"_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown"
+			],
 			[
 				"",
 				"2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown"
@@ -1606,10 +1612,6 @@
 			[
 				"page",
 				"BoilerPlate/PageTitle.tex"
-			],
-			[
-				"thesis",
-				"Thesis.tex"
 			],
 			[
 				"calib",
@@ -1950,18 +1952,6 @@
 			[
 				"wjets",
 				"PartCrossSection/Diagram/Feynman/WJetsEx.tex"
-			],
-			[
-				"cova",
-				"PartDetector/CovMatrix.tex"
-			],
-			[
-				"tikz",
-				"PartDetector/Diagrams/IPDiagram.tikz"
-			],
-			[
-				"covar",
-				"PartDetector/CovMatrix.tex"
 			]
 		],
 		"width": 0.0
@@ -1984,7 +1974,6 @@
 		],
 		"width": 392.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},
