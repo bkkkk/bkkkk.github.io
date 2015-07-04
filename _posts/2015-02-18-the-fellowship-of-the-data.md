@@ -19,11 +19,11 @@ Apparently there will be around 20 of us in the programme; all PhD students with
 
 The programme is said to be very intensive so I'm using my time to prepare for it. Data scientists need to develop a variety of different skills:
  
- * Statistical data analysis
- * Machine learning
- * Programming language
- * Business insight
- * Communication and networking skills
+- Statistical data analysis
+- Machine learning
+- Programming language
+- Business insight
+- Communication and networking skills
 
 I want to develop as many of these skills as possible but to hit the ground running I'm focusing on the tools of the trade: programming skills!
 
@@ -40,7 +40,6 @@ I've managed to install and set-up a MySQL server, and import a small sample of 
 Next I am going to develop the analysis further introducing the interaction between two tables of data and multiple selections. It's interesting having to think and structure the analysis in a whole different way. Maybe once I have this developed a bit more I will talk about it.
 
 That's it for now, I will leave you with the transverse momentum distribution of some fancy muons that I managed to make. Look at those Latex-typeset axes labels! Ooooh!
-<figure>
-  <img src="/images/first_pt.png" >
-  <figcaption>Figure 1: Muons are fast!</figcaption>
-</figure>
+
+<img src="/img/first_pt.png" >
+<figcaption>Figure 1: Muons are fast!</figcaption>
