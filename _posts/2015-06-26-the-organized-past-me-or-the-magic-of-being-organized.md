@@ -4,7 +4,6 @@ title: The organized past me or the magic of being organized
 categories: []
 tags: [gtd]
 published: True
-
 ---
 
 Confession, I am terrible at being aware of what I need to have with me at any given point. I know I need to go to the meeting, but I have no idea where it is. I know I need to sign up for internet connection, but I don't have the proof of address that you need.
