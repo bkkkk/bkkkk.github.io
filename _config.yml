@@ -1,22 +1,7 @@
 # --- Serving options --- #
-
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (username.github.io) then use these settings:
 url: "http://bkkkk.github.io"
 baseurl: ""
-
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
-
-# Name of website
 title: Jacobo Blanco
-
-# Short description of your site
 description: Thoughts on technology, research, and life in general
 
 # --- Navigation bar options --- #
@@ -28,8 +13,8 @@ avatar: "/img/bio-photo.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "Data Scientist/Gamer/Optimizer of Things"
-  Contact: "contact"
+  About Me: "aboutme.html"
+  Contact: "contact.html"
 
 # --- Footer options --- #
 
@@ -63,7 +48,7 @@ url-pretty: "bkkk.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "codingpanda"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "JacobBlanco"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 

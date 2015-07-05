@@ -1,8 +1,6 @@
 ---
-layout: minimal
-js: "/js/contact.js"
-css: "/css/contact.css"
-googlefonts: Lobster
+layout: page
+title: Contact Me
 ---
 
 Oooh you wanna contact me?! Yay! that's great! (Don't be creepy)
