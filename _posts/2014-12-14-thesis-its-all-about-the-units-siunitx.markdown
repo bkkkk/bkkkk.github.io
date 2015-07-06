@@ -26,9 +26,8 @@ $\sqrt{s}=\SI{8}{\TeV}$
 
 **Output**
 
-![Inline example](/img/Inline.png)
-
-![In an equation example](/img/InEquation.png)
+![Inline example](/img/Inline.png "siunitx in inline equation")
+![In an equation example](/img/InEquation.png "siunitx used in in equation")
 
 ------
 
@@ -57,7 +56,7 @@ There is also a basic facility to render values with uncertainties as shown belo
 
 **Output example**
 
-![Uncertainty example](/img/WithUncertainty.png)
+![Uncertainty example](/img/WithUncertainty.png "Example with uncertaintites")
 
 ------
 
@@ -76,9 +75,9 @@ Range and list commands are also defined, there are multiple options to configur
 
 **Output**
 
-![Range of numbers](/img/Range.png)
+![Range of numbers](/img/Range.png "Example of ranges")
 
-![List of numbers](/img/List.png)
+![List of numbers](/img/List.png "Example of lists")
 
 ------
 
@@ -88,7 +87,7 @@ Siunitx can also help you typeset tables. For this purpose the package provides 
 
 -----
 
-![Example table](/img/Table.png)
+![Example table](/img/Table.png "Example with units in table")
 
 -----
 
@@ -161,7 +160,7 @@ I have included a few commands to help with rendering asymmetric uncertainties a
 
 **Output**
 
-![](/img/AsymUncertainty.png)
+![](/img/AsymUncertainty.png "Example with asymmetric uncertainty")
 
 ### Multiple uncertainties
 
@@ -177,7 +176,7 @@ $\num{165}\;^{+\;10}_{-\;8}\stat\pm\num{17}\syst\si{\pico\barn}$
 
 **Output**
 
-![](/img/MultipleAsymmetric.png)
+![](/img/MultipleAsymmetric.png "Example with multiple uncertainties")
 
 -----
 
