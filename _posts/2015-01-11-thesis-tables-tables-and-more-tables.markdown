@@ -28,14 +28,14 @@ Take a good look at the tables you already have, or the data you are considering
 
 The reader should be able to understand the table, at a rudimentary level, without needing much or any of the main text. Look at the example below from the economist and see if you can understand what the numbers mean.
 
-![The frightful future](/img/simple_table.gif)
+![The frightful future](/img/simple_table.gif "A simple table from The Economist")
 <figcaption>Source: <a href="http://www.economist.com/node/18928863">The Economist</a></figcaption>
 
 The table is presenting the total and per household amount of unfunded pension liabilities in each US city very clearly. Do I know what a pension liability is? Not a clue! Is it the purpose of the table to teach you that? Absolutely not. The purpose of the table is to present data which indicates a looming crisis. It does not contain any extraneous information and has clear headings and a caption. The data and headings are aligned in a natural and consistent way.
 
 This is a simple example with little data and simple headings, nothing too crazy. How about something more complicated?
 
-![](/img/The-Economist-chart-of-IT-tech-giants.png)
+![](/img/The-Economist-chart-of-IT-tech-giants.png "A large table example from The Economist")
 <figcaption>Source: <a href="http://www.economist.com/node/16693547">The Economist</a></figcaption>
 
 They are presenting general information for each of the tech companies, and some kind of indicator for their involvement in different tech markets. Do I know how that indicator was estimated? Nope, but from the table I can crudely compare each company's involvement against the others.
@@ -94,7 +94,7 @@ If you intend the reader to compare certain sets of values put them all in a sin
 
 Consider if a large table makes more sense as two tables. The data in a large table of efficiencies at pretag and tagged level is probably better presented as two separate tables. If there is too little data in the table to breakup or you think things should stay together consider using \midrule, repeated headers, and/or a mid-table title. Here is, what I think is a pretty decent example from my own thesis:
 
-<img src="/img/large_table_example.png" style="width: 500px;"/>
+<img src="/img/large_table_example.png" style="width: 500px;" alt="Large table example" />
 
 I iterated on the layout of this table a few times before arriving at the final version. Try things out see what works, remember to revisit tables towards the end to see how they fit with the text and the rest of the tables/figures around them.
 
@@ -102,7 +102,7 @@ I iterated on the layout of this table a few times before arriving at the final 
 
 You can use inter-column spacing and/or spanning cells to group together columns. The inter-column spacing command @{} allows you to adjust what goes in the spaces between columns. This can be a smaller space, large space, and even text as show in the example below:
 
-<img src="/img/intercell_spacing.png" style="width: 500px;"/>
+<img src="/img/intercell_spacing.png" style="width: 500px;" alt="Example of adjusting the intercell spacing"/>
 
 The table above makes use of varied inter-column spacing and a spanning header cell to group columns together. The -rather complicated- column definition is shown below:
 
