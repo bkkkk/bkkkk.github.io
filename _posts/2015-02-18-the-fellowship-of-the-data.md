@@ -39,5 +39,5 @@ Next I am going to develop the analysis further introducing the interaction betw
 
 That's it for now, I will leave you with the transverse momentum distribution of some fancy muons that I managed to make. Look at those Latex-typeset axes labels! Ooooh!
 
-<img src="/img/first_pt.png" >
-<figcaption>Figure 1: Muons are fast!</figcaption>
+![The distribution of muon momentum](/img/first_pt.png "Muon momentum plot")
+Figure 1: Muons are fast!
