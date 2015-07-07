@@ -160,7 +160,7 @@ I have included a few commands to help with rendering asymmetric uncertainties a
 
 **Output**
 
-![](/img/AsymUncertainty.png "Example with asymmetric uncertainty")
+![Example with asymmetric uncertainty](/img/AsymUncertainty.png)
 
 ### Multiple uncertainties
 
@@ -176,7 +176,7 @@ $\num{165}\;^{+\;10}_{-\;8}\stat\pm\num{17}\syst\si{\pico\barn}$
 
 **Output**
 
-![](/img/MultipleAsymmetric.png "Example with multiple uncertainties")
+![Example with multiple uncertainties](/img/MultipleAsymmetric.png)
 
 -----
 

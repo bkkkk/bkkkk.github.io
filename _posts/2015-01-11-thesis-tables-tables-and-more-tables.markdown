@@ -28,14 +28,14 @@ Take a good look at the tables you already have, or the data you are considering
 
 The reader should be able to understand the table, at a rudimentary level, without needing much or any of the main text. Look at the example below from the economist and see if you can understand what the numbers mean.
 
-![The frightful future](/img/simple_table.gif "A simple table from The Economist")
+![The frightful future](/img/simple_table.gif)
 <figcaption>Source: <a href="http://www.economist.com/node/18928863">The Economist</a></figcaption>
 
 The table is presenting the total and per household amount of unfunded pension liabilities in each US city very clearly. Do I know what a pension liability is? Not a clue! Is it the purpose of the table to teach you that? Absolutely not. The purpose of the table is to present data which indicates a looming crisis. It does not contain any extraneous information and has clear headings and a caption. The data and headings are aligned in a natural and consistent way.
 
 This is a simple example with little data and simple headings, nothing too crazy. How about something more complicated?
 
-![](/img/The-Economist-chart-of-IT-tech-giants.png "A large table example from The Economist")
+![A large table example from The Economist](/img/The-Economist-chart-of-IT-tech-giants.png)
 <figcaption>Source: <a href="http://www.economist.com/node/16693547">The Economist</a></figcaption>
 
 They are presenting general information for each of the tech companies, and some kind of indicator for their involvement in different tech markets. Do I know how that indicator was estimated? Nope, but from the table I can crudely compare each company's involvement against the others.
