@@ -1,4 +1,6 @@
-# Attributions
+[![Build Status](https://travis-ci.org/bkkkk/bkkkk.github.io.svg?branch=master)](https://travis-ci.org/bkkkk/bkkkk.github.io)
+
+# Attributions 
 
 Hey intrepid explorer! My site is based entirely on the talented Dean Attali's Beautiful Jekyll theme. This is from his official repo for the template
 
