@@ -5,12 +5,7 @@ title: Jacobo Blanco
 description: Thoughts on technology, research, and life in general
 
 # --- Navigation bar options --- #
-
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
 avatar: "/img/bio-photo.jpg"
-
-# List of links in the navigation bar
 navbar-links:
   Home: ""
   Thesis Tutorials: "thesis.html"
@@ -20,12 +15,11 @@ navbar-links:
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Jacobo Blanco
-  email: "jayb88@domain.com"
-  github: bkkkk    # eg. daattali
-  twitter: bkkkk   # eg. daattali
+  email: "jayb88@gmail.com"
+  github: bkkkk
+  twitter: bkkkk
 # linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
 # stackoverflow: yourlink  # eg. "users/3943160/daattali"
 
@@ -39,16 +33,10 @@ footer-links-active:
   linkedin: false
   stackoverflow: false
 
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "bkkk.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "bkkkk.github.io"
 
 # --- Misc --- #
-
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "codingpanda"
-
-# Fill in your Google Analytics ID to track your website using GA
 google_analytics: "JacobBlanco"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
