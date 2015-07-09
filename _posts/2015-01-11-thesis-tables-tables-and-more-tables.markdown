@@ -4,6 +4,10 @@ subtitle: 'Not the IKEA kind'
 date: 2015-01-12
 ---
 
+*This post is part of my thesis tutorials series. You can find the rest of the posts [here](http://bkkkk.github.io/thesis.html)*
+
+# Making better tables
+
 The role of a table is to help you **convince the reader** of the point you are trying to make. Good tables make for happy examiners, and happy examiners give you PhDs so it's well worth pleasing them.
 
 # To tab or not to tab

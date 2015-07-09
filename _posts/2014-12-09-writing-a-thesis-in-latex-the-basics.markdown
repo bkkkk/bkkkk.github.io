@@ -4,6 +4,10 @@ subtitle: 'Back to basics'
 date: 2014-12-09
 ---
 
+*This post is part of my thesis tutorials series. You can find the rest of the posts [here](http://bkkkk.github.io/thesis.html)*
+
+# The basics
+
 This series will assume you have some basic understanding of LaTeX and have written and compiled a document in Latex before. If you haven't, take a look at this [Latex Wikibook](http://en.wikibooks.org/wiki/LaTeX). It's very readable with some nice illustrative examples and covers a range of techniques at different experience levels.
 
 I am going to have a lot of particle physics specific information here, but most of it will be useful in other disciplines.

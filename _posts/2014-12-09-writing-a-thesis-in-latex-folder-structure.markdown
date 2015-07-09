@@ -4,6 +4,10 @@ subtitle: 'Ducks in some linear representation'
 date: 2014-12-10
 ---
 
+*This post is part of my thesis tutorials series. You can find the rest of the posts [here](http://bkkkk.github.io/thesis.html)*
+
+# Working with large latex projects
+
 A thesis is a giant document with many moving parts. You'll have multiple chapters, appendices, Tikz diagrams, PDF plots, Feynmf diagrams, bibliography, and a lot of words. Thankfully latex provides you with a few ways of organizing all of these.
 
 This is what my folder looks like, I've omitted a bunch of files and folders to keep things brief:

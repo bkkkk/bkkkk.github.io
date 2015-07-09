@@ -4,6 +4,10 @@ subtitle: 'Its all about the units'
 date: 2014-12-14
 ---
 
+*This post is part of my thesis tutorials series. You can find the rest of the posts [here](http://bkkkk.github.io/thesis.html)*
+
+# Working with units
+
 There are several packages you might find useful while putting together your thesis. In my case, I use over 20 packages. Some of them provide facilities that you'll use all over the place, while others are more specific. Over the next few posts I will cover some of the ones I've found useful.
 
 # Unit! Line up!
