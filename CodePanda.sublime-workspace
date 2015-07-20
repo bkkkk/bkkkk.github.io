@@ -524,10 +524,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 267.0,
-		"last_filter": "",
+		"height": 127.0,
+		"last_filter": "preview",
 		"selected_items":
 		[
+			[
+				"preview",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"new draft",
+				"Jekyll: New draft"
+			],
 			[
 				"jekyll",
 				"Set Syntax: Markdown (Jekyll)"
@@ -603,10 +611,6 @@
 			[
 				"promote",
 				"Jekyll: Promote draft to post..."
-			],
-			[
-				"new draft",
-				"Jekyll: New draft"
 			],
 			[
 				"high",
@@ -690,10 +694,6 @@
 			],
 			[
 				"prew",
-				"Markdown Preview: Preview in Browser"
-			],
-			[
-				"preview",
 				"Markdown Preview: Preview in Browser"
 			],
 			[
@@ -1072,6 +1072,7 @@
 	},
 	"file_history":
 	[
+		"/Users/jayb88/Projects/Website/bkkkk.github.io/_drafts/dynamically-generated-linked-dropbox-menus-in-shiny.md",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2014-12-09-writing-a-thesis-in-latex-folder-structure.markdown",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-02-18-the-fellowship-of-the-data.md",
 		"/Users/jayb88/Projects/Website/bkkkk.github.io/_posts/2015-01-11-thesis-tables-tables-and-more-tables.markdown",
@@ -1198,8 +1199,7 @@
 		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/Thesis.tex",
 		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/BoilerPlate/PageTitle.tex",
 		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartTheory/Theory.tex",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/README.md",
-		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/PartTheory/Diagrams/WeakCharged.tex"
+		"/Users/jayb88/Dropbox/TopWork/PhD Thesis/README.md"
 	],
 	"find":
 	{
@@ -1441,6 +1441,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"_drafts",
+				"_drafts/dynamically-generated-linked-dropbox-menus-in-shiny.md"
+			],
 			[
 				"tables",
 				"_posts/2015-01-11-thesis-tables-tables-and-more-tables.markdown"
@@ -1948,10 +1952,6 @@
 			[
 				"z",
 				"PartCrossSection/Diagram/Feynman/ZJetsEx.tex"
-			],
-			[
-				"wjets",
-				"PartCrossSection/Diagram/Feynman/WJetsEx.tex"
 			]
 		],
 		"width": 0.0
