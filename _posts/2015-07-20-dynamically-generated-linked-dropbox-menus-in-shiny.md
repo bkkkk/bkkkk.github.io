@@ -7,7 +7,7 @@ published: True
 
 ---
 
-At work I've been recently tasked with coming up with a time tracking solution for our team. We work on multiple projects, some of which are publicly funded, and this means we need to be able to track individual project contributions. Due to various technicalities it makes more sense to track percentage contribution instead of actual hours. In addition some projects have sub-projects for which we need to track contributions as well.
+I've been recently tasked with coming up with a time tracking solution for our team. We work on multiple projects, some of which are publicly funded, and this means we need to be able to track individual project contributions. Due to various technicalities it makes more sense to track percentage contribution instead of actual hours. In addition some projects have sub-projects for which we need to track contributions as well.
 
 After wrestling with redmine with various plugins I decided that "there has to be a better way". I've been using R and Shiny for another project so I thought I would use my newly acquired R chops to build a Shiny (pun intended) time tracking web-application. This gives us all the power of R for any further manipulation we are likely to need in the future, but the simplicity of a nicely designed web interface.
 
