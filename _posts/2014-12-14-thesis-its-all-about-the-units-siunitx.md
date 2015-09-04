@@ -1,8 +1,9 @@
 ---
+layout: post
+date: 2014-12-14
 title: 'Thesis Tutorials #3: siunitx'
 subtitle: 'Its all about the units'
-date: 2014-12-14
-comments: true
+comments: True
 ---
 
 # Thesis Tutorials #3: siunitx

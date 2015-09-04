@@ -1,7 +1,11 @@
 ---
-title: The most important questions you can't ask
+layout: post
 date: 2015-06-12
+title: The most important questions you can't ask
+comments: True
 ---
+
+# The most important questions you can't ask
 
 I was thinking about this while walking to the toilet a few days ago. I have a lot of this bathroom walk thoughts; mostly fleeting morsels of pseudo-intellectual bullshit, but this particular one stuck with me.
 

@@ -1,7 +1,9 @@
 ---
+layout: post
 date: 2015-06-26
 title: The magic of organization
 subtitle: Helping my future self
+comments: True
 ---
 
 # The magic of organization

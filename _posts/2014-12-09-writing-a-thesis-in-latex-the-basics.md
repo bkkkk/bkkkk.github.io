@@ -1,7 +1,9 @@
 ---
+layout: post
+date: 2014-12-09
 title: 'Thesis Tutorials #1: Thesis 101'
 subtitle: 'Back to basics'
-date: 2014-12-09
+comments: True
 ---
 
 # Thesis Tutorials #1: Thesis 101

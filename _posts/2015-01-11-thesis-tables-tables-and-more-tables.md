@@ -1,8 +1,12 @@
 ---
+layout: post
+date: 2015-01-12
 title: 'Thesis Tutorials #5: How to make tables'
 subtitle: 'Not the IKEA kind'
-date: 2015-01-12
+comments: True
 ---
+
+# Thesis Tutorials #5: How to make tables
 
 *This post is part of my thesis tutorials series. You can find the rest of the posts [here](http://bkkkk.github.io/thesis.html)*
 

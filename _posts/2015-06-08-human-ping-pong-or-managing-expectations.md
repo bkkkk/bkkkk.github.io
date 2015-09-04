@@ -1,8 +1,12 @@
 ---
+layout: post
+date: 2015-06-08
 title: 'On Managing Expectations'
 subtitle: 'Human ping-pong'
-date: 2015-06-08
+comments: True
 ---
+
+# On managing expectations
 
 Today was a perfect example of what happens when you try to do too much with not enough time. 
 

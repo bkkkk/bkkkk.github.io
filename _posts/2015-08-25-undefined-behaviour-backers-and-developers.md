@@ -1,9 +1,10 @@
 ---
 layout: post
+date: 2015-08-25
 title: Undefined behaviour: backers and developers
 categories: [Video Games]
 tags: [games,kickstarter,gaming]
-author: Jacobo Blanco
+comments: True
 ---
 
 # Undefined Behaviour: backers and developers

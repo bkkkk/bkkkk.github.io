@@ -1,8 +1,10 @@
 ---
+layout: post
+date: 2015-02-18
 title: The Fellowship of The Data
 categories: [Fellowship]
 tags: [personal,big data]
-date: 2015-02-18
+comments: True
 ---
 
 # The Fellowship of The Data
