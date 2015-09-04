@@ -7,8 +7,6 @@ tags: [games,kickstarter,gaming]
 comments: True
 ---
 
-# Undefined Behaviour: backers and developers
-
 Today more than ever content creators are able to get their material in the hands of those who want it. Gone are the days of giant corporations controlling what gets made and how it is made. Thanks to services like Youtube, Twitch.tv, Kickstarter, Patreon, and many more, people can consume and support a wide variety of content whenever it suits them.
 
 ## If it ain't broke...

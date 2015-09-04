@@ -6,8 +6,6 @@ subtitle: "The strange de-motivator"
 comments: True
 ---
 
-# What is the point? The strange de-motivator
-
 I start a blog every 3 years. Usually because I read an article or listened to a podcast and I'm dying to talk about to anybody that will listen. Usually though there is nobody around so I take to writing.
 
 The paper doesn't freaking reply though! I the ask myself, if nobody is talking back, if there is no conversation, what the hell is point? And there I stop.

@@ -6,8 +6,6 @@ subtitle: 'Not the IKEA kind'
 comments: True
 ---
 
-# Thesis Tutorials #5: How to make tables
-
 *This post is part of my thesis tutorials series. You can find the rest of the posts [here](http://bkkkk.github.io/thesis.html)*
 
 # Making better tables

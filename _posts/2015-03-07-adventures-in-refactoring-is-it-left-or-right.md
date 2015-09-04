@@ -6,8 +6,6 @@ categories: [Adventures in Refactoring]
 comments: True
 ---
 
-# Adventures in Refactoring - Part 1
-
 *Adventures in refactoring is a series covering my progress in refactoring an old codebase I wrote at the end of my PhD. This is a learning exercise to improve my design and refactoring skills and an excuse to learn C++11 on a realistic code base*
 
 As part of my PhD I had to design and implement a large analysis scheme that to calibrate our b-tagger on the latest data from the ATLAS detector. As this was the first time I had the reigns on a whole project from start to finish, I took time to think through the problem and implement it right. I chose the latest tools provided by the collaboration and made sure to create a large set of small classes - the road to hell is paved with good intentions.

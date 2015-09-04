@@ -6,8 +6,6 @@ subtitle: 'Its all about the units'
 comments: True
 ---
 
-# Thesis Tutorials #3: siunitx
-
 *This post is part of my thesis tutorials series. You can find the rest of the posts [here](http://bkkkk.github.io/thesis.html)*
 
 # Working with units

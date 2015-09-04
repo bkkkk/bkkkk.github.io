@@ -7,8 +7,6 @@ tags: [personal,big data]
 comments: True
 ---
 
-# The Fellowship of The Data
-
 Hey you how's it going? You looking mighty fine! *insert mandatory not blogged in a while excuse*.
 
 Next week I'm starting an eight week fellowship organized by the Advanced Skills Initiative. Yes, it does sound like something out of the Bourne universe; it's not though, I think.

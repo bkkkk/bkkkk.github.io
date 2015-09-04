@@ -5,8 +5,6 @@ title: The most important questions you can't ask
 comments: True
 ---
 
-# The most important questions you can't ask
-
 I was thinking about this while walking to the toilet a few days ago. I have a lot of this bathroom walk thoughts; mostly fleeting morsels of pseudo-intellectual bullshit, but this particular one stuck with me.
 
 The most important questions you can ask yourself in life are also the kinds of questions you can't ask other people. Are you happy? Do you like your job? What is it that you want to do with your life? What's your purpose on this planet? That is was too deep and way too personal, but also--more problematically--it brings up feelings of regret and self-examination that most people try to bury deep down in their psyche.

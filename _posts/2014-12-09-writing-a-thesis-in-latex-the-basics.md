@@ -6,8 +6,6 @@ subtitle: 'Back to basics'
 comments: True
 ---
 
-# Thesis Tutorials #1: Thesis 101
-
 *This post is part of my thesis tutorials series. You can find the rest of the posts [here](http://bkkkk.github.io/thesis.html)*
 
 # The basics

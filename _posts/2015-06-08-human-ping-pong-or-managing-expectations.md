@@ -6,8 +6,6 @@ subtitle: 'Human ping-pong'
 comments: True
 ---
 
-# On managing expectations
-
 Today was a perfect example of what happens when you try to do too much with not enough time. 
 
 You know that feeling of having multiple things through-out your day thrash you around? Just when you think you've found your balance you make a stupid mistake, and life whacks you over the head again. Well today was one of those days.
