@@ -14,10 +14,16 @@ Asking anybody, especially people you don't know very well, is a sure fire way o
 From a practical stand-point this presents a problem because you can't ask people how to figure the answer to those questions either. How do you know if you're happy? How do I figure out what it is that I want to do?
 
 A lot people--especially fresh out of college or living with parents--struggle with answering those questions. I would love to be able to speak to 20 or 30 successful and content people and ask them those questions. How did you know this is what you should be doing? How do you know which opportunities to take and which to pass on? How did you figure out that this was IT? Describe that moment when you realized that this was IT?
-> It's so strange that people arrange themselves to maximize the distance between themselves and other people on the bus.
+
+```
+It's so strange that people arrange themselves to maximize the distance between themselves and other people on the bus.
+```
 
 This kind of shame or taboo surrounding some these questions--like with sex--results in people feeling increasingly isolated. Am I the only one who doesn't have a clue what they want to do? What is wrong with me?
-> Bus-driver can you stop shaking the bus please? I'm trying to write here.
+
+```
+Bus-driver can you stop shaking the bus please? I'm trying to write here.
+```
 
 I feel like if we were all a bit more open to engaging with those questions in a mature way we would be much better off.
 
