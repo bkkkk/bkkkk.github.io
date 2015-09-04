@@ -4,6 +4,8 @@ subtitle: 'Ducks in some linear representation'
 date: 2014-12-10
 ---
 
+# Thesis Tutorials #2: Folder structure
+
 *This post is part of my thesis tutorials series. You can find the rest of the posts [here](http://bkkkk.github.io/thesis.html)*
 
 # Working with large latex projects

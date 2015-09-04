@@ -3,7 +3,7 @@ layout: post
 title: Undefined behaviour: backers and developers
 categories: [Video Games]
 tags: [games,kickstarter,gaming]
-published: True
+author: Jacobo Blanco
 ---
 
 # Undefined Behaviour: backers and developers

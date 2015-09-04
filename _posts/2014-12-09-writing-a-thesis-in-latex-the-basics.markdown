@@ -4,6 +4,8 @@ subtitle: 'Back to basics'
 date: 2014-12-09
 ---
 
+# Thesis Tutorials #1: Thesis 101
+
 *This post is part of my thesis tutorials series. You can find the rest of the posts [here](http://bkkkk.github.io/thesis.html)*
 
 # The basics

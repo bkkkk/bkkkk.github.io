@@ -1,6 +1,6 @@
 --- 
-title: Posting from the iPad!
 layout: post
+title: Posting from the iPad!
 author: Jacobo Blanco
 --- 
 

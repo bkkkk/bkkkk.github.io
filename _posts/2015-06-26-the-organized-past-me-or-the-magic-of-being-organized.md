@@ -4,6 +4,8 @@ title: The magic of organization
 subtitle: Helping my future self
 ---
 
+# The magic of organization
+
 Confession, I am terrible at being aware of what I need to have with me at any given point. I know I need to go to the meeting, but I have no idea where it is. I know I need to sign up for internet connection, but I don't have the proof of address that you need.
 
 This is one of those areas where GTD has had almost magical results. Because I now plan everything ahead, creating a list of all steps required to complete a certain project, I always have the things I need with me, without even having to think about it.
