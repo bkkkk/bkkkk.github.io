@@ -13,6 +13,7 @@ This is one of those areas where GTD has had almost magical results. Because I n
 Going back to the internet connection, I may not be going to the store for a few days, but since I've planned everything ahead I've created the following action list:
 
 Get internet connection:
+
 - Go online and find out how much it will cost
 - Find out where the store is
 - Find out which paperwork you need
