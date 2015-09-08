@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-08-25
-title: 'Undefined behaviour: backers and developers'
+title: Undefined behaviour: backers and developers
 categories: [Video Games]
 tags: [games,kickstarter,gaming]
 comments: True
