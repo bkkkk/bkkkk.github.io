@@ -8,9 +8,10 @@ description: Thoughts on technology, research, and life in general
 avatar: "/img/bio-photo.jpg"
 navbar-links:
   Home: ""
-  Thesis Tutorials: "thesis.html"
   About Me: "aboutme.html"
   Contact: "contact.html"
+  Thesis Tutorials: "thesis.html"
+  Search: "./search/"
 
 # --- Footer options --- #
 
