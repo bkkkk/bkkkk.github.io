@@ -9,7 +9,6 @@ avatar: "/img/bio-photo.jpg"
 navbar-links:
   Home: ""
   About Me: "aboutme.html"
-  Contact: "contact.html"
   Thesis Tutorials: "thesis.html"
   Search: "./search/"
 
