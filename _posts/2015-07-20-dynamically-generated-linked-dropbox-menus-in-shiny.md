@@ -2,6 +2,7 @@
 layout: post
 date: 2015-07-20
 title: Dynamically generated linked dropbox menus with R and Shiny
+author: Jacobo Blanco
 tags: [rstats,shiny,r,webapp,webdev]
 published: True
 comments: True
