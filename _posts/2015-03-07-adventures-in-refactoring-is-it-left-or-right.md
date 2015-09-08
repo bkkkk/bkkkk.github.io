@@ -3,7 +3,6 @@ layout: post
 date: 2015-03-07
 title: Adventures in Refactoring - Part 1 Is it left or right?
 categories: [Adventures in Refactoring]
-comments: True
 ---
 
 *Adventures in refactoring is a series covering my progress in refactoring an old codebase I wrote at the end of my PhD. This is a learning exercise to improve my design and refactoring skills and an excuse to learn C++11 on a realistic code base*

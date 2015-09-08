@@ -3,7 +3,6 @@ layout: post
 date: 2015-07-04
 title: 'Quickie: Life is not boring'
 subtitle: 'Or why carpets are amazing!'
-comments: True
 ---
 
 I've been reading about insight meditation lately, and in his book 'Mindfulness In Plain English'--which I read on the toilet at work-- Henepola Gunaratana mentions how we all naturally label our experiences as either good, bad, or neutral. We seek out good experiences, try to avoid bad ones, and simply ignore the neutral stuff because they are of no value.

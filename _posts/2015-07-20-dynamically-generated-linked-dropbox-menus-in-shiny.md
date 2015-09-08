@@ -4,8 +4,6 @@ date: 2015-07-20
 title: Dynamically generated linked dropbox menus with R and Shiny
 author: Jacobo Blanco
 tags: [rstats,shiny,r,webapp,webdev]
-published: True
-comments: True
 ---
 
 I've been recently tasked with coming up with a time tracking solution for our team. We work on multiple projects, some of which are publicly funded, and this means we need to be able to track individual project contributions. Due to various technicalities it makes more sense to track percentage contribution instead of actual hours. In addition some projects have sub-projects for which we need to track contributions as well.

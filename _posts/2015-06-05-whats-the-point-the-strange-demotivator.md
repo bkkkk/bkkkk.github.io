@@ -3,7 +3,6 @@ layout: post
 date: 2015-06-05
 title: "What is the point?"
 subtitle: "The strange de-motivator"
-comments: True
 ---
 
 I start a blog every 3 years. Usually because I read an article or listened to a podcast and I'm dying to talk about to anybody that will listen. Usually though there is nobody around so I take to writing.

@@ -3,7 +3,6 @@ layout: post
 date: 2014-12-19
 title: 'Thesis Tutorials #4: Some opinionated tips'
 subtitle: 'Do or do not do, there is no try'
-comments: True
 ---
 
 *This post is part of my thesis tutorials series. You can find the rest of the posts [here](http://bkkkk.github.io/thesis.html)*
