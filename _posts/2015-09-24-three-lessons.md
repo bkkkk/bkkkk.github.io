@@ -8,7 +8,7 @@ This post is a written version of a talk I gave a few months ago at a public-spe
 
 My name is Jacobo Blanco, and I recently survived a PhD. I graduated in June of 2015; it was a great day. Almost my entirely family game over, my dad was very happy-he thought he wouldn't need to help me out with food money anymore. Shows what he knows.
 
-As happy as that day was it was the culmination of four years of incredibly hard work. PhDs are very difficult and the will test everything you have. You will question your self-worth and every decision you've ever made because all of them have led you to this moment. This moment where you feel like your supervisor is driving you crazy, and your code is not working, your colleagues think you're stupid, the research is going nowhere, your work is worthless, you haven't seen your family or girlfriend for months, and you'll never graduate and you'll die alone and miserable and without a Doctorate to show for it.
+As happy as that day was, it was the culmination of four years of incredibly hard work. Doing a PhD will test everything you have. You will question your self-worth and every decision you've ever made, because all of them have led you to this moment. This moment when your supervisor is driving you crazy, and your code is not working, your colleagues think you're stupid, the research is going nowhere, your work is worthless, you haven't seen your family or girlfriend for months, and you'll never graduate and you'll die alone and miserable and without a doctorate to show for it.
 
 I may have lost my sanity for a while there.
 
