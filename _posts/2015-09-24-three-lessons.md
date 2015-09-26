@@ -18,8 +18,9 @@ The first lesson is about **saying yes**. One day my supervisor enters the room 
 
 So say YES because you never know.
 
-The second lesson, strangely enough, is about **saying no**. I was in one of our regular weekly meetings, like the kind almost any office worker has, when our group leader informs us that we will be submitting our work to an upcoming conference. The deadline for submission? This Friday. We had very little time to finalize our analysis, get the results, and build all the deliverables. I knew that this was impossible. I said I would try:
-> "Do or do not do, there is no try" Master Yoda.
+The second lesson, strangely enough, is about **saying no**. I was in one of our regular weekly meetings, like the kind almost any office worker has, when our group leader informs us that we will be submitting our work to an upcoming conference. The deadline for submission? This Friday. We had very little time to finalize our analysis, get the results, and build all the deliverables. I knew that this was impossible. I said I would try.
+
+_"Do or do not do, there is no try" Master Yoda._
 
 The famous words by Master Yoda did not make sense to me at the time. I now understand. What followed was a grueling week where we slaved until 3AM to get the analysis done. Unsurprisingly, we failed miserably. We were exhausted, demoralized, beaten. We'd compromised our health, our relationships, and our sleep, and achieved nothing at all. I should have said no, I should have trusted myself and been professional enough to refuse a pointless endeavor.
 
