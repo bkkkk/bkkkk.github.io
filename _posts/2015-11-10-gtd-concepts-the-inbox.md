@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "GTD Concepts - Part 1 The inbox"
-date: '2015-11-10 07:17'
+title: "GTD Concepts Part 1 - The inbox"
+date: "2015-11-10 07:17"
+published: true
 ---
-
-_This is part I of the GTD Concepts series, looking at GTD Concepts patterns that you can apply almost anywhere to help you reduce friction. Please enjoy, leave a comment below, and thank you for reading._
+_This is part 1 of a series looking at interesting GTD concepts that have applications elsewhere and can make your life a little bit more friction free. Next part is about the idea of segmentation of actions. Please enjoy, leave a comment below, and thank you for reading._
 
 I've been practicing David Allen's getting things done (GTD) philosophy, having achieved a good level of awareness and control over the stuff in my life. Over time some interesting patterns have emerged, which can be adapted and used in other situations. Let's have a quick look through them and how you can adopt them too.
 
@@ -12,25 +12,13 @@ Today we'll go through the entry point into your trusted system, the inbox.
 
 ## The inbox
 
-The first concept you learn about in GTD is the idea of an inbox. It acts as the catch-all location for everything in your life. At some later time, usually during a daily or weekly review, you look at the inbox and in order go through and deal with everything in there. You throw away some unwanted receipts, add a task to your todo list to plan a trip to the spa for which you got a brochure, and file away some bills.
+One of the earliest concepts you learn in [GTD](http://gettingthingsdone.com/fivesteps/) is the idea of an inbox. The inbox acts as the catch-all location for everything in your life. At some later time you look at your inbox and serious deal with everything in there. Maybe you throw away some unwanted receipts or plan a trip to the spa for which you got a brochure.
 
-### Actions and tasks
+For action-tracking I use [OmniFocus](https://www.omnigroup.com/omnifocus) which provides you with an inbox. At home I have an inbox where bills, letters, post-its, brochures, and other materials get dropped into.
 
-For action-tracking I use OmniFocus in-built inbox, from there I can easily organize my tasks or do smaller tasks immediately and marked them as done.
+Capturing on the go happens in [Drafts](http://agiletortoise.com/drafts/) on iOS. Textual snippets like tweets, messages, shopping lists, present ideas, and others go into the Drafts inbox and are sent to the appropriate place like running lists on Dropbox or Twitter.
 
-### Home paperwork
-
-At home I have a three-tier inbox where I drop bills, letters, post-its, brochures, and other paper materials I've collected through-out the day.
-
-### Text on the go
-
-Capturing on the go happens in Drafts on iOS. Textual snippets like tweets, messages, shopping lists, and present ideas go into the Drafts inbox. Later I will go through them and dispatch them to the appropriate place like running lists on Dropbox or Twitter.
-
-### Text at the desk
-
-I use [nvALT](http://brettterpstra.com/project/nvalt/) to capture notes on my MacBook. This acts as my inbox for medium to long textual information. Meeting minutes, research notes, course notes, code snippets, and small tutorials. Even this blog post started out in nvALT. I am still experimenting with this application in an attempt to replace Evernote.
-
-### Running lists
+When I'm on my Mac I use [nvALT](http://brettterpstra.com/projects/nvalt/) as my inbox for medium to long textual information. Notes from work, course notes, code snippets, small tutorials. Even this blog post is actually being written in nvALT.
 
 Lately I've started using running lists to keep track of songs, books, movies, games, and TV shows I get exposed to when I'm out. You can even have a running list of gift ideas. Particularly useful now that the holidays and my anniversary are coming up.
 
@@ -56,4 +44,4 @@ Inboxes can be a very powerful tool in your productivity arsenal. They allow you
 
 Go ahead and try to identify a few of your inboxes and a few places you could use an inbox. **Post your results in the comment section!**
 
-In part II we will look at the idea of breaking things down and tackling the individual pieces, helping you focus and getting more done by avoiding inefficient multitasking.
+In part 2 we will look at the idea of breaking things down and tackling the individual pieces, helping you focus and getting more done by avoiding inefficient multitasking.
