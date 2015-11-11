@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GTD Concepts - Part 1 The inbox"
+title: "GTD Concepts Part 1 - The inbox"
 date: "2015-11-10 07:17"
 published: true
 ---
