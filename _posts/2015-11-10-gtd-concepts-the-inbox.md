@@ -7,7 +7,7 @@ published: true
 
 
 
-_This is part I of a series looking at interesting GTD concepts that have applications elsewhere and can make your life a little bit more friction free. Next part is about the idea of segmentation of actions. Please enjoy, leave a comment below, and thank you for reading._
+_This is part 1 of a series looking at interesting GTD concepts that have applications elsewhere and can make your life a little bit more friction free. Next part is about the idea of segmentation of actions. Please enjoy, leave a comment below, and thank you for reading._
 
 I've been practicing David Allen's GTD, having achieved a good level of awareness and control of most of the stuff in my life. I will likely write another post later as a look-back at my first year with GTD.
 
@@ -17,7 +17,7 @@ Today we'll go through the entry point into your trusted system, the inbox.
 
 ## The inbox
 
-One of the earliest concepts you learn in GTD is the idea of an inbox. The inbox acts as the catch-all location for everything in your life. At some later time you look at your inbox and serious deal with everything in there. Maybe you throw away some unwanted receipts or plan a trip to the spa for which you got a brochure.
+One of the earliest concepts you learn in [GTD](http://gettingthingsdone.com/fivesteps/) is the idea of an inbox. The inbox acts as the catch-all location for everything in your life. At some later time you look at your inbox and serious deal with everything in there. Maybe you throw away some unwanted receipts or plan a trip to the spa for which you got a brochure.
 
 For action-tracking I use [OmniFocus](https://www.omnigroup.com/omnifocus) which provides you with an inbox. At home I have an inbox where bills, letters, post-its, brochures, and other materials get dropped into.
 
@@ -35,4 +35,4 @@ The great thing about inboxes is that they allow you to record content quickly a
 
 In some cases some ideas or content might look interesting at first but later turn out to be useless. Like a site that might have relevant information now, but because of a change in plans, the content is no longer relevant. Having an inbox allows for these items to be recorded and then later easily discarded without the wasted overhead of organizing it.
 
-In part II we will look at the idea of breaking things down and tackling the individual pieces, helping you focus and getting more done by avoiding inefficient multitasking.
+In part 2 we will look at the idea of breaking things down and tackling the individual pieces, helping you focus and getting more done by avoiding inefficient multitasking.
