@@ -2,9 +2,11 @@
 layout: post
 title: "GTD Concepts - Part 1 The inbox"
 date: "2015-11-10 07:17"
+published: true
 ---
 
-> This is part I of a series looking at interesting GTD concepts that have applications elsewhere and can make your life a little bit more friction free. Next part is about the idea of segmentation of actions. Please enjoy, leave a comment below, and thank you for reading.
+
+_This is part I of a series looking at interesting GTD concepts that have applications elsewhere and can make your life a little bit more friction free. Next part is about the idea of segmentation of actions. Please enjoy, leave a comment below, and thank you for reading._
 
 I've been practicing David Allen's GTD, having achieved a good level of awareness and control of most of the stuff in my life. I will likely write another post later as a look-back at my first year with GTD.
 
