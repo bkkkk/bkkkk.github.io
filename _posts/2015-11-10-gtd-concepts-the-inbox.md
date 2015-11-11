@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 _This is part I of a series looking at interesting GTD concepts that have applications elsewhere and can make your life a little bit more friction free. Next part is about the idea of segmentation of actions. Please enjoy, leave a comment below, and thank you for reading._
 
 I've been practicing David Allen's GTD, having achieved a good level of awareness and control of most of the stuff in my life. I will likely write another post later as a look-back at my first year with GTD.
@@ -18,11 +19,11 @@ Today we'll go through the entry point into your trusted system, the inbox.
 
 One of the earliest concepts you learn in GTD is the idea of an inbox. The inbox acts as the catch-all location for everything in your life. At some later time you look at your inbox and serious deal with everything in there. Maybe you throw away some unwanted receipts or plan a trip to the spa for which you got a brochure.
 
-For action-tracking I use OmniFocus which provides you with an inbox. At home I have an inbox where bills, letters, post-its, brochures, and other materials get dropped into.
+For action-tracking I use [OmniFocus](https://www.omnigroup.com/omnifocus) which provides you with an inbox. At home I have an inbox where bills, letters, post-its, brochures, and other materials get dropped into.
 
-Capturing on the go happens in Drafts on iOS. Textual snippets like tweets, messages, shopping lists, present ideas, and others go into the Drafts inbox and are sent to the appropriate place like running lists on Dropbox or Twitter.
+Capturing on the go happens in [Drafts](http://agiletortoise.com/drafts/) on iOS. Textual snippets like tweets, messages, shopping lists, present ideas, and others go into the Drafts inbox and are sent to the appropriate place like running lists on Dropbox or Twitter.
 
-When I'm on my Mac I use nvALT as my inbox for medium to long textual information. Notes from work, course notes, code snippets, small tutorials. Even this blog post is actually being written in nvALT.
+When I'm on my Mac I use [nvALT](http://brettterpstra.com/projects/nvalt/) as my inbox for medium to long textual information. Notes from work, course notes, code snippets, small tutorials. Even this blog post is actually being written in nvALT.
 
 Lately I've started using running lists to keep track of songs, books, movies, games, and TV shows I get exposed to when I'm out. You can even have a running list of gift ideas. Particularly useful now that the holidays and my anniversary are coming up.
 
