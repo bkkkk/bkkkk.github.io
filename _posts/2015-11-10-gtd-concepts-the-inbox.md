@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "GTD Concepts Part 1 - The inbox"
+title: "Patterns of GTD Part 1 - The inbox"
 date: "2015-11-10 07:17"
 published: true
 ---
 
-_This is part 1 of a series looking at interesting GTD concepts that have applications elsewhere and can make your life a little bit more friction free. Next part is about the idea of segmentation of actions. Please enjoy, leave a comment below, and thank you for reading._
+_This is part 1 of a series looking at interesting GTD patterns that have applications elsewhere and can make your life a little bit more friction free. Next part is about the idea of segmentation of actions. Please enjoy, leave a comment below, and thank you for reading._
 
 I've been practicing David Allen's getting things done (GTD) philosophy, having achieved a good level of awareness and control over the stuff in my life. Over time some interesting patterns have emerged, which can be adapted and used in other situations. Let's have a quick look through them and how you can adopt them too.
 
