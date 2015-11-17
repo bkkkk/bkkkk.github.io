@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "GTD Concepts Part 1 - The inbox"
+title: "Patterns of GTD Part 1 - The inbox"
 date: "2015-11-10 07:17"
 published: true
 ---
+
 
 _This is part 1 of a series looking at interesting GTD concepts that have applications elsewhere and can make your life a little bit more friction free. Next part is about the idea of segmentation of actions. Please enjoy, leave a comment below, and thank you for reading._
 
