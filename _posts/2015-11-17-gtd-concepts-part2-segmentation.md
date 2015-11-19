@@ -46,4 +46,4 @@ Next time we will look at the advantages of defining your goals and plan before 
 
 Thank you very much for reading. I hope this has helped. Please leave a comment and let me know how you got on with your project. Until next time, happy living.
 
-[^costofmultitasking]: http://www.apa.org/research/action/multitask.aspx
+[^costofmultitasking]: [The cost of multitasking](http://www.apa.org/research/action/multitask.aspx)
