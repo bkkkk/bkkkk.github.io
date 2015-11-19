@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GTD Concepts Part 3 - Define First, Do Later"
+title: "Patterns of GTD Part 3 - Define First, Do Later"
 date: "2015-11-11 17:38"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GTD Concepts Part 5 - Be Honest and Ruthless"
+title: "Patterns of GTD Part 5 - Be Honest and Ruthless"
 date: "2015-11-11 17:41"
 ---
 

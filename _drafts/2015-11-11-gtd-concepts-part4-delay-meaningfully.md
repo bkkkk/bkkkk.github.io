@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GTD Concepts Part 4 - Delay Meaningfully"
+title: "Patterns of GTD Part 4 - Delay Meaningfully"
 date: "2015-11-11 17:40"
 ---
 

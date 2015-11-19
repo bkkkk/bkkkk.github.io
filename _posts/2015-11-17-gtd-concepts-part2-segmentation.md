@@ -4,8 +4,6 @@ title: Patterns of GTD Part 2 - Breaking Things Up
 date: '2015-11-17 19:54'
 ---
 
-![](/img/banner_ireland_dingle.jpg)
-
 _This is part 2 of a series looking at interesting GTD patterns that can be effectively used outside of GTD to make your life a little bit more friction free. In [part 1](http://bkkkk.github.io/2015-11-10-gtd-concepts-the-inbox/) we looked at how creating inboxes can help save you time and headaches when sorting through all the things in your life._
 
 I've been practicing David Allen's [getting things done](http://gettingthingsdone.com/fivesteps/) philosophy, having achieved a good level of awareness and control over the stuff in my life. Over time some interesting patterns have emerged, which can be adapted and used in other situations. Let's have a quick look through them and how you can adopt them too.
