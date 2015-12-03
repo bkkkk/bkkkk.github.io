@@ -6,11 +6,9 @@ date: '2015-11-17 19:54'
 
 _This is part 2 of a series looking at interesting GTD patterns that can be effectively used outside of GTD to make your life a little bit more friction free. In [part 1](http://bkkkk.github.io/2015-11-10-gtd-concepts-the-inbox/) we looked at how creating inboxes can help save you time and headaches when sorting through all the things in your life._
 
-I've been practicing David Allen's [getting things done](http://gettingthingsdone.com/fivesteps/) philosophy, having achieved a good level of awareness and control over the stuff in my life. Over time some interesting patterns have emerged, which can be adapted and used in other situations. Let's have a quick look through them and how you can adopt them too.
-
 Today we'll look at the advantages of breaking things up into smaller parcels and working on similar tasks can help you be more productive.
 
-### Breaking things up
+## Breaking things up
 
 Many of the actions we undertake, processes we follow, and things we create (reports, slides, articles) can be broken down into smaller chunks.
 
@@ -24,7 +22,7 @@ Writing and editing are two very different activities. Looking for images and an
 
 Then, I add a task to my OmniFocus project for the blog post to look for images for the post. I try to keep transitions between mental contexts to a minimum because this is an opportunity for distraction. Because all it takes is for me to open a tab, see my homepage or some bookmark and three hours later the post is still not done and I am knee deep in internet crap.
 
-### What's the benefit?
+## What's the benefit?
 
 The mindset is to break down a large project into separate chunks and then firewall the different kinds of thinking. The "New ideas" is done separately to "Refine Ideas", which is also done separately from "Research Ideas". Breaking up and segmenting has advantages before your start a project, while you're doing and after you've completed a chunk.
 
@@ -34,7 +32,7 @@ By segmenting the different kinds of thinking you let your brain settle into the
 
 Finally, as it turns out our brains are kinda stupid. They get a kick from finishing the smallest of things. By separating a big job into a bunch of smaller discrete units and completing them, you get a sense of accomplishment which pushes you to continue. It's easier to continue if you can see the progress you're making. If you constantly switched from writing to editing to searching for diagrams you'd end up spending a lot of time on not completing much of anything.
 
-## The take home
+## The take-home
 
 The idea of breaking things down and working on them as discrete units is another important GTD pattern. It underlies the entire five-steps through which you go while engaging with your responsibilities and things that have your attention. Breaking your work down has a lot of benefits in areas outside GTD. It can help you start more quickly with bigger projects, make you more productive, and push you through mammoth projects.
 
