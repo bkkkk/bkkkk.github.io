@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Patterns of GTD Part 4 - Be Honest"
-date: "2015-11-11 17:41"
+title: 'Patterns of GTD Part 4 - Be Honest'
+date: '2016-01-20 22:40'
 ---
 
 _This is part 4 of a series looking at interesting GTD patterns that can be effectively used outside of GTD to make your life a little bit more friction free. In [part 3](http://bkkkk.github.io/2015-12-03-gtd-concepts-part3-define-early/) we looked at how segmenting your work can help you start, stay motivated, and finish your projects faster._
