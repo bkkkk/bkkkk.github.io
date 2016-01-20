@@ -22,7 +22,7 @@ Having clear goals helps you make correct choices along the way, saving time on 
 
 There is also a more subtle reason for defining goals earlier. Knowing the why of a project helps you decide if the project is a worthy endevour at all. Am I writing this article to help people? Is that something I want to do? Where else can I accomplish "teaching other people"? Does venting online help me achieve my higher level goal of being positive and mindful of the world? Probably not.
 
-## How to implement this
+## OK, Now what?
 
 I want you to pick a project, writing or otherwise, that you want to start or get going again. Preferably one which has vague or no outcomes. Note this technique has the most visible impact on projects where you create something which wasn't there before. Writing, programming, implementing some new process are great examples. For instance, setting up a knowledge-base and code repository for your team at work.
 
