@@ -44,8 +44,8 @@ google_analytics: "UA-58624713-1"
 # Output options (more information on Jekyll's site)
 timezone: "Dublin/Ireland"
 markdown: kramdown
-highlighter: pygments
-permalink: /:year-:month-:day-:title
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
 paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
