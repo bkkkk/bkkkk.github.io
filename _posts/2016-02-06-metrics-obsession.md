@@ -1,10 +1,13 @@
 --- 
-title: The numbers we obsess about
 layout: post
+title: The numbers we obsess about
+date: 2016-02-06 20:01:26
 author: Jacobo Blanco
 --- 
 
-It's interes ting to see how much our behaviour is affected by what we measure. The obvious example is money. There is a page that your bank provides that gives you a number telling you how much money you have. So we spend X hours to Y amount of money. It's called a job.
+I've been thinking about how our obsessions as individuals, organizations, and countries are dictated by the numbers we measure. Money is an obvious example.
+
+You can easily open a website with a number that tells you how much money you have. And so we worry and obsess about it. We convert X hours into Y amount of money through this thing called a job.
 
 But what's the problem? Is the whole point of your life to create as much money as possible? Or is money just a means to an end? Surely the point is to be safe, fed, and have the ability to express yourself. In other words, being happy. So are you sacrificing happiness at the altar of maximising money? How many hours have you spent with your family? How many of your own passions have you put aside? Is there a page that shows you that number? What is the quality of your relationship with your daughter or son? Is there a page with that number?
 
