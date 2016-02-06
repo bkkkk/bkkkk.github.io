@@ -35,16 +35,16 @@ Similar to the above, use \\(...\\) instead. Load the **fixltx2e** package to fi
 
 Define new commands to codify concepts and improve readability of code. For example, I've defined a new command to represent missing energy:
 
-{% highlight latex %}
+```latex
 \newcommand{\met}{\ensuremath{E^{\textrm{miss}}_{\textrm{T}}}}
-{% endhighlight %}
+```
 
 This means that I avoid having to repeat code, I don't have to make a decision right now about how I want to represent this concept, increases the consistency of my test, and more importantly it makes the text much more readable without compiling.
 
-{% highlight latex %}
+```latex
 A large amount of \met\ is expected
 in a final state SUSY signature.
-{% endhighlight %}
+```
 
 **Use version control**
 
@@ -54,11 +54,11 @@ If you ever code anything that matters you have to put it into some kind of vers
 
 Latex unfortunately does not support utf8 by default, so you cannot directly type names with umlauts into your latex code. Luckily with only a couple of lines of code you can get support for those lovely foreign names.
 
-{% highlight latex %}
+```latex
 \usepackage[T1]{fontenc}
 \usepackage[latin1]{inputenc}
 \usepackage{lmodern}
-{% endhighlight %}
+```
 
 What these packages do has been explained by more capable people than me on [tex.se](http://tex.stackexchange.com/questions/44694/fontenc-vs-inputenc). The **lmodern** package loads the font _Latin Modern_, which is a different font family to the latex default _Computer Modern_. If you just want to use cm simply load the fontenc and inputenc packages and the cm-super font, with additional glyphs, should load automatically.
 
@@ -68,7 +68,7 @@ Bibliographies are handled by roughly two components, first the external applica
 
 To keep things short, use the **biblatex** package instead of something like natbib and process your .bib files with **biber** instead. Using these two newer tools provide a bunch of benefits such as unicode support, easy customization using latex methods, and support for additional fields. This is provided to you at zero cost since .bib written for bibtex are compatible with biber (the reverse is not necessarily true). The syntax for biblatex is simple:
 
-{% highlight latex %}
+```latex
 \usepackage[sorting=none,backend=biber]{biblatex}
 \addbibresource{Thesis.bib}
 
@@ -77,7 +77,7 @@ with great precision e.g.\ the electron magnetic
 moment $g$ is known to \num{e-13}~\cite{Theory:AwesomeSM}.
 
 \printbibliography
-{% endhighlight %}
+```
 
 Here I specifically define biber as the backend and I use no sorting since I want the citations sorting in the order they appear in the text. When you compile your code simply run the following commands:
 
@@ -86,7 +86,7 @@ pdflatex Thesis.tex
 biber Thesis.bib
 pdflatex Thesis.tex
 pdflatex Thesis.tex
-{% endhighlight %}
+```
 
 **Sources**
 

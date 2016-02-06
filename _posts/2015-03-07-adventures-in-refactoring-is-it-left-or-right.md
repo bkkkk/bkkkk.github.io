@@ -26,7 +26,7 @@ The other problem is that there are many explicit dependencies on external packa
 
 So instead of talking through the whole system, what the classes look like and what everything does, I am just going to show you some code and we shall decipher things as we go along. I present to you TJPsiTagSelector:
 
-{% highlight c++ %}
+```c++
 #ifndef TJPSITASELECTOR_H_
 #define TJPSITASELECTOR_H_ 1
 
@@ -34,8 +34,7 @@ So instead of talking through the whole system, what the classes look like and w
 #include <D3PDReader/MuonD3PDObject.h>
 #include <TString.h>
 
-class TJPsiTagSelector
-{
+class TJPsiTagSelector {
 public:
   /// Standard ctor
   TJPsiTagSelector(const std::string& val_name="TJPsiTagSelector");
@@ -84,13 +83,13 @@ public:
 }; // End TJPsiTagSelector
 
 #endif // END TJPSITASELECTOR_H_
-{% endhighlight %}
+```
 
 You should be vomiting profusely at this point, there are formatting problems, encapsulation is non-existent, unnecessary commenting, unclear method and variable names, dependencies on implementation details, and even unnecessary included headers. Can you tell what this class does? It takes in a muon object and determines whether it passes a kinematic selection. Conceptually the particle is then known as a tag. Is that clear from the code? Absolutely not!
 
 Even this small piece of code reveals a lot of the *smells* present throughout the code base. The formatting is something that can be easily fixed using automated tools without the need for tests. Let's do that first.
 
-{% highlight c++ %}
+```c++
 #ifndef TJPSITAGSELECTOR_H_
 #define TJPSITAGSELECTOR_H_ 1
 
@@ -123,7 +122,7 @@ public:
 
 #endif
 
-{% endhighlight %}
+```
 
 After cleaning things up the class looks a little bit better. Did you spot the typo?
 
@@ -131,7 +130,7 @@ I left a single comment behind which clarifies what the two functions called acc
 
 First lets try to get this class into a test-harness. The constructor is fairly straight-forward; it does nothing but set default values for the kinematic cuts and name:
 
-{% highlight c++ %}
+```c++
 TJPsiTagSelector::TJPsiTagSelector(const std::string &val_name)
     : name(val_name), etaCut(std::numeric_limits<float>::max()),
       combinedMuonCut(-1), ptCut(std::numeric_limits<float>::min()),
@@ -140,15 +139,15 @@ TJPsiTagSelector::TJPsiTagSelector(const std::string &val_name)
       d0SigCut(std::numeric_limits<float>::max()),
       z0SigCut(std::numeric_limits<float>::max()) {}
 
-{% endhighlight %}
+```
 
 Lets start by constructing an empty object, providing no parameters:
 
-{% highlight c++ %}
+```c++
 TEST_F(TestTagSelector, initialTestConstructingObjectWithNoParameters) {
   TJPsiTagSelector selector();
 } 
-{% endhighlight %}
+```
 
 I compile and of course the code runs.
 
@@ -160,16 +159,16 @@ From other classes in the same package as TagSelector I know that initialize is 
 
 So I remove the empty test above and add a check for the failing case:
 
-{% highlight c++ %}
+```c++
 TEST_F(TestTagSelector, InitializeReturnsFalseIfCutsAreNotSet) {
   TJPsiTagSelector* invalidSelector = new TJPsiTagSelector;
   EXPECT_EQ(0, invalidSelector->initialize());
 }
-{% endhighlight %}
+```
 
 With the test in place I make the necessary changes:
 
-{% highlight c++ %}
+```c++
 int TJPsiTagSelector::initialize() const {
   if(etaCut == std::numeric_limits<float>::max()) return (0);
   if(combinedMuonCut == -1) return (0);
@@ -182,13 +181,13 @@ int TJPsiTagSelector::initialize() const {
   return (1);
 }
 
-{% endhighlight %}
+```
 
 Note that this is a big chunk of code to write and you should go more slowly, adding tests for each individual cut to be set. Since there is almost no logic here I decided to test all values not being set and move on. I compile and run the test, everything passes.
 
 I then create a TagSelector object and set it up with some cut variables. This will be the object which is used throughout the tests. This gets put in the SetUp method, with a corresponding clean-up in TearDown:
 
-{% highlight c++ %}
+```c++
 class TestTagSelector : public ::testing::Test {
 
   //...
@@ -214,15 +213,15 @@ class TestTagSelector : public ::testing::Test {
 
 };
 
-{% endhighlight %}
+```
 
 By the way, these values correspond to the ones used for the real analysis. I then add a test for the case where initialize should return one given that the cuts were set:
 
-{% highlight c++ %}
+```c++
 TEST_F(TestTagSelector, InitializeReturnsOneIfCutsAreSet) {
   EXPECT_EQ(1, selector->initialize());
 }
-{% endhighlight %}
+```
 
 Compile and test, everything passes. Nothing crazy but every marathon starts with a first step. I am definitely not done with initialize, the name is ridiculous and I need to also test for invalid values, such as a negative **pt** cut. Note that there are probably more correct ways of checking the input, but once again this is a first step.
 

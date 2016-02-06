@@ -75,17 +75,17 @@ If in doubt align the text to the left. Make sure that numbers are aligned by th
 
 This improves the readability of the table and puts emphasis on the table headers. Use the inter-column space command @{} with no arguments in your column definition:
 
-{% highlight latex %}
+```latex
 \begin{tabular}{@{}lll@{}}
-{% endhighlight %}
+```
 
 **Increase row separation**
 
 This improves readability by helping the brain navigate through a row in the table. I defined a simple command which I then use to adjust the row separation length:
 
-{% highlight latex %}
+```latex
 \newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
-{% endhighlight %}
+```
 
 In a \table environment then invoke \ra{X} where X is a number. I used 1.2 for most of my tables and 1.3 for those larger tables, more cramped tables. The difference is quite subtle but very useful. Note that a factor of 1 means the row separation is unchanged from the default.
 
@@ -111,7 +111,7 @@ You can use inter-column spacing and/or spanning cells to group together columns
 
 The table above makes use of varied inter-column spacing and a spanning header cell to group columns together. The -rather complicated- column definition is shown below:
 
-{% highlight latex%}
+```latex
 @{}
 l
 S[table-format=2.2(2)]S[table-format=2.2(2)]%
@@ -122,7 +122,7 @@ S[table-format=2.2(2)]%
 @{~(}
 S[table-format=1.2(2),tight-spacing=true,table-space-text-pre=(,table-space-text-post=)]%
 @{)}
-{% endhighlight %}
+```
 
 Here I exploit the inter-column spacing to group the values together and even draw brackets around values. The S column identifier is part of the *siunitx* package I discussed before, the options create the bracketed values and make certain columns more compact.
 

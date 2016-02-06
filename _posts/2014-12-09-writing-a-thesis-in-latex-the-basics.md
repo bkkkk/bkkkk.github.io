@@ -13,7 +13,7 @@ This series will assume you have some basic understanding of LaTeX and have writ
 
 I am going to have a lot of particle physics specific information here, but most of it will be useful in other disciplines.
 
-I assume that you know how and are able to install latex packages, and that you have an editor that you are comfortable with. If you're interested in my setup check it out below, if you're happy with what you've got just move on to the next post about structuring your latex project.
+I assume that you know how and are able to install latex packages, and that you have an editor that you are comfortable with. If you're interested in my setup check it out below, if you're happy with what you've got just move on to the next post about structuring your latex project.
 
 ## My setup
 

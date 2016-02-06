@@ -13,7 +13,7 @@ A thesis is a giant document with many moving parts. You'll have multiple chapte
 
 This is what my folder looks like, I've omitted a bunch of files and folders to keep things brief:
 
-{% highlight text %}
+```text
   .
   ├── BoilerPlate
   │   ├── Abstract.tex
@@ -47,7 +47,7 @@ This is what my folder looks like, I've omitted a bunch of files and folders to 
   ├── Thesis.sublime-project
   ├── Thesis.sublime-workspace
   └── Thesis.tex
-{% endhighlight %}
+```
 
 The main file **Thesis.tex** contains the backbone of the thesis. It includes packages, defines page styles, and adds bibliography resources (read .bib files), it does not however include any content. I very rarely worked in this file, only when adding packages or making changes to pagination.
 
@@ -55,7 +55,7 @@ Also in the root directory I have a directory for each chapter included in the
 
 Below is an excerpt from my Thesis.tex file, I've omitted the packages and page style setup.
 
-{% highlight latex %}
+```latex
 \begin{document}
 \include{BoilerPlate/PageTitle}
 \newpage
@@ -73,6 +73,7 @@ Below is an excerpt from my Thesis.tex file, I've omitted the packages and page 
 \include{PartTopQuark/TopQuark}
 \include{PartDetector/Detector}
 
+
 %% More chapters
 
 \begin{appendices}
@@ -85,7 +86,7 @@ Below is an excerpt from my Thesis.tex file, I've omitted the packages and page 
 \newpage
 \printbibliography
 \end{document}
-{% endhighlight %}
+```
 
 The main thing to note here are the calls to **\include{SomeTexFile}** which includes the tex file for each chapter. This structure allows you to separate the setup from the content, limits the damage if a file gets corrupted, and makes navigation across your thesis much simpler.
 

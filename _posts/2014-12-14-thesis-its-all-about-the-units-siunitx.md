@@ -23,11 +23,11 @@ In siunitx, one types a value with a unit using the **\SI** command. This comma
 
 **Example**
 
-{% highlight latex %}
+```latex
 \SI{8}{\TeV}
 
 $\sqrt{s}=\SI{8}{\TeV}$
-{% endhighlight %}
+```
 
 **Output**
 
@@ -42,10 +42,10 @@ If you need to render units or values on their own, siunitx provides the **\si**
 
 **Example**
 
-{% highlight latex %}
+```latex
 \si{\TeV}
 \num{1003333}
-{% endhighlight %}
+```
 
 ------
 
@@ -55,9 +55,9 @@ There is also a basic facility to render values with uncertainties as shown belo
 
 **Example**
 
-{% highlight latex %}
+```latex
 \SI{245.6(100)}{\pico\barn}
-{% endhighlight %}
+```
 
 **Output example**
 
@@ -73,10 +73,10 @@ Range and list commands are also defined, there are multiple options to configur
 
 **Example**
 
-{% highlight latex %}
+```latex
 \SIrange{2-10}{\percent}
 \SIlist{5;9;12}{\cm}
-{% endhighlight %}
+```
 
 **Output**
 
@@ -100,7 +100,7 @@ The uncertainties and decimal points are aligned in each column and the correct 
 
 -----
 
-{% highlight latex %}
+```latex
 \begin{table}[htbp]
     \sisetup{separate-uncertainty=true}
     \centering
@@ -124,25 +124,25 @@ The uncertainties and decimal points are aligned in each column and the correct 
     \end{tabular}
     \caption{Some Caption}
 \end{table}
-{% endhighlight %}
+```
 
 -----
 
 There is a lot of code here so lets work through the important bits. First up, the column definition used:
 
-{% highlight latex %}
+```latex
 @{}
   S[table-format=4] % Mass Label
   *{3}{S[table-format=2.1(1)]} % SMT Efficiency
   S[table-format=2] % Added Acceptance
 @{}
-{% endhighlight %}
+```
 
 The **@{}** command, which is not siunitx specific, defines the inter-column spacing, in this case to no space. So here we remove the spacing before the first column and after the last column. The next command **S[table-format=4]** instructs latex to let siunitx handle the rendering of values in this column, and the option **table-format=4** defines the number format in the table to have four non-decimal digits. The next command:
 
-{% highlight latex %}
+```latex
 *{3}{S[table-format=2.1(1)]}
-{% endhighlight %}
+```
 
 States that there are 3 columns following with values that have 2 non-decimal digits, one decimal digit, and an uncertainty with a single digit. We state the expected format so that siunitx sets the appropriate column size. If we have a column with mixed values we must define the table-format to the largest value. For example, if we tabulate the values: 10.2 and 150.35, we set **table-format=3.2** in the column definition. I'll leave the last column definition as a -trivial- exercise for the reader.
 When defining the headers of the table we write them within curly braces. This stops siunitx from trying to render the text. You can use this syntax to stop siunitx from rendering specific cells.
@@ -158,10 +158,10 @@ I have included a few commands to help with rendering asymmetric uncertainties a
 
 **Code**
 
-{% highlight latex %}
+```latex
 \newcommand{\asymUnc}[4]{\ensuremath{#1\;^{+\;#2}_{-\;#3}\;#4}}
 \asymunc{10.2}{3.2}{1.4}{\si{\TeV}}
-{% endhighlight %}
+```
 
 **Output**
 
@@ -171,13 +171,13 @@ I have included a few commands to help with rendering asymmetric uncertainties a
 
 **Code**
 
-{% highlight latex %}
+```latex
 \newcommand{\stat}{\ensuremath{\textrm{\,(stat.)}}}
 \newcommand{\syst}{\ensuremath{\textrm{\,(syst.)\,}}}
 \newcommand{\lumi}{\ensuremath{\textrm{\,(lumi.)\,}}}
 
 $\num{165}\;^{+\;10}_{-\;8}\stat\pm\num{17}\syst\si{\pico\barn}$
-{% endhighlight %}
+```
 
 **Output**
 

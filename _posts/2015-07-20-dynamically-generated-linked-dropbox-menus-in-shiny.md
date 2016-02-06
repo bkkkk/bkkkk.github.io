@@ -22,7 +22,7 @@ Each contribution requires the user answer three questions: Which project is it?
 
 The three elements are dynamically generated in `server.R`. The first snippet of code generates a list of input objects for each contribution to be recorded:
 
-{% highlight r %}
+```r
 build_fields <- function(entries_to_add) {
   list_of_projects <- # LOAD DATA FROM mySQL
 
@@ -43,11 +43,11 @@ contribution_ui_generator <- eventReactive(input$add_more, {
 output$ui_contributions_fields <- renderUI({
   contribution_ui_generator()
 })
-{% endhighlight %}
+```
 
 And then displayed in the `ui.R`:
 
-{% highlight r %}
+```r
 user_form <- 
   div(id = "form",
       fluidRow(
@@ -65,7 +65,7 @@ shinyUI(fluidPage(
   user_form,
   uiOutput("ui_contributions_fields")
 ))
-{% endhighlight %}
+```
 
 ## Updating menu content
 
@@ -75,15 +75,15 @@ All the sub-project information is stored on the MySQL database so I pull that i
 
 The content of a selectInput can be updated using the `updateSelectInput()` function as follows:
 
-{% highlight r %}
+```r
 updateSelectInput("subproject_field", choices = c("new", "choices"))
-{% endhighlight %}
+```
 
 ## Creating an observer
 
 In order to react to changes in the project name field I create an observer, that updates the choices in the sub-projects field when the value of the project field changes:
 
-{% highlight r %}
+```r
 observe({
   project_id <- input$project_field
   subprojects <- # LOAD DATA FROM mySQL
@@ -95,7 +95,7 @@ observe({
 
   updateSelectInput("subproject_field", choices = list_of_subprojects)
 })
-{% endhighlight %}
+```
 
 But then I run into a problem: I can build dynamic UI elements, I can create observers for known input objects, how does one create observers for an arbitrary number of objects?
 
@@ -107,7 +107,7 @@ So after all the fields are built we generate an observer connecting each projec
 
 You'll note that I am using the local object here, this is to bind the value of entry to the current iteration, otherwise only one of the dropbox menus is updated. Finally I return a `div` object containing all the contribution fields:
 
-{% highlight r %}
+```r
 contribution_ui_generator <- eventReactive(input$add_more, {
   entries_to_add <- input$number_of_projects
   contribution_fields <- build_fields(input$number_of_projects)
@@ -135,7 +135,7 @@ contribution_ui_generator <- eventReactive(input$add_more, {
 
   div(id = "list_of_contributions", contribution_fields)
 })
-{% endhighlight %}
+```
 
 This should set you up with dynamically generated, linked dropbox menus. This technique can be used to create observers for most types of dynamically generated UI elements.
 
