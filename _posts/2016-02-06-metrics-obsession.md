@@ -2,7 +2,6 @@
 layout: post
 title: 'The numbers we obsess about'
 date: '2016-02-06 20:01'
-author: 'Jacobo Blanco'
 --- 
 
 I've been thinking about how our obsessions as individuals, organizations, and countries are dictated by the numbers we measure. Money is an obvious example.
