@@ -1,3 +1,4 @@
 _site
 .sass-cache
-musing.sublime-workspace
+musing.sublime-workspaceGemfile
+Gemfile.lock
