@@ -81,7 +81,7 @@ moment $g$ is known to \num{e-13}~\cite{Theory:AwesomeSM}.
 
 Here I specifically define biber as the backend and I use no sorting since I want the citations sorting in the order they appear in the text. When you compile your code simply run the following commands:
 
-{% highlight bash %}
+```bash
 pdflatex Thesis.tex
 biber Thesis.bib
 pdflatex Thesis.tex
