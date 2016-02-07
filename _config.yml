@@ -46,7 +46,9 @@ timezone: "Dublin/Ireland"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
+gems: [jekyll-paginate]
 paginate: 5
+paginate_path: "page:num"
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
