@@ -18,7 +18,7 @@ This idea is particularly applicable for big writing projects. My writing, has b
 
 Writing and editing are two very different activities. Looking for images and and links make you jump between windows and have you in research mode. Writing is all about pressing buttons to make words appear. If I think of an article to link to or and image to add, I make a comment in the blog post like this:
 
-> ADD GRAPH ON WORLD PROGRESS (GDP VS HEALTH)
+`ADD GRAPH ON WORLD PROGRESS (GDP VS HEALTH)`
 
 Then, I add a task to my OmniFocus project for the blog post to look for images for the post. I try to keep transitions between mental contexts to a minimum because this is an opportunity for distraction. Because all it takes is for me to open a tab, see my homepage or some bookmark and three hours later the post is still not done and I am knee deep in internet crap.
 

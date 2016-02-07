@@ -22,16 +22,15 @@ Over time, as you build your someday/maybe list you will realize that more than 
 
 It's strange to think of honesty as a pattern. While we may be honest with other people, we tend to lie to ourselves often and with ease. Just think about what you have in the attic or in the back of your closet and wait for your brain to start making up lies:
 
-> _"I'm totally gonna go running next week"_
-
-> _"After dinner I am gonna pick up this guitar and learn how to play"_
-
-> _"2016 is going to be the year I learn to draw"_
+* _I'm totally gonna go running next week_
+* _After dinner I am gonna pick up this guitar and learn how to play_
+* _I will make 2016 is going to be the year I learn to draw_
 
 This will stop you from getting stuff done. Holding on to _maybes_, _could-haves_, _should-haves_ brings nothing but anxiety and disappointment. The space taken by old clothes, that guitar you're not playing, or the unused training shoes could be taken by another project you will finish. Empty space is a reward we often undervalue.
 
 Honesty is useful whenever you're creating or building anything. Do you need this slide? Is that table in my article necessary? Am I helping my reader if I use fancy words?
-> "Perfection is Achieved Not When There Is Nothing More to Add, But When There Is Nothing Left to Take Away" - Antoine de Saint-Exupery
+
+_Perfection is Achieved Not When There Is Nothing More to Add, But When There Is Nothing Left to Take Away_ - Antoine de Saint-Exupery
 
 ## So what now?
 
