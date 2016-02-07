@@ -7,7 +7,6 @@ description: "Thoughts on technology, research, and life in general"
 # --- Navigation bar options --- #
 avatar: "/img/bio-photo.jpg"
 navbar-links:
-  Home: "/"
   About Me: "aboutme"
   Thesis Tutorials: "thesis"
   Search: "search"
