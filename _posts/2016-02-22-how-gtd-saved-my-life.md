@@ -2,7 +2,7 @@
 layout: post
 title: 'How I almost threw my life away'
 subtitle: 'but managed not to'
-date: '2016-01-22 20:25:49'
+date: '2016-02-22 11:30:00'
 ---
 
 *They say that the first step to recovery is admitting you have a problem. This is the story of how I screwed up my life, lost all hope, and then managed to get things back on track. This is the story of how I started my journey to a better and more focused life*
