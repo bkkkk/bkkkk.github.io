@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+redirect: http://www.jayblanco.com/about/
 ---
 
 My name is Jacobo Blanco, and I am a data scientist and programmer. My research interests vary and I will work on any topic as long as I can sink my teeth into it and learn a lot.

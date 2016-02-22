@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Thesis Tutorials
+redirect: http://www.jayblanco.com/blog/2016/2/20/thesis-tutorials-1-thesis-101
 ---
 
 This series of posts covers a bunch of stuff I learned while I was writing my thesis in Latex. All of it is really useful, some of it is just collating information from various sources and bringing methods together. They are numbered mostly to help me keep track, but they are not intended to be read in any particular order. 

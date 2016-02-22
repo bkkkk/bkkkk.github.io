@@ -2,6 +2,7 @@
 layout: post
 title: 'Patterns of GTD Part 3 - Define First, Do Later'
 date: '2015-12-03 17:33'
+redirect: http://www.jayblanco.com/blog/2016/2/21/patterns-of-gtd-3-define-first-do-later
 ---
 
 _This is part 3 of a series looking at interesting GTD patterns that can be effectively used outside of GTD to make your life a little bit more friction free. In [part 2](http://bkkkk.github.io/2015-11-17-gtd-concepts-part2-segmentation//) we looked at how segmenting your work can help you start, stay motivated, and finish your projects faster._

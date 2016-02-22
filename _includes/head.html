@@ -98,5 +98,15 @@
   {% else %}
   <meta property="og:image" content="" />
   {% endif %}
+
+ <script>
+  {% if page.redirect %}
+  window.location = "{{ page.redirect }}";
+  {% else %}
+  window.location = "http://www.jayblanco.com"
+  {% endif %}
+  </script>
+  }
+  }
   
 </head>

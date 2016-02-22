@@ -2,6 +2,7 @@
 layout: post
 title: Three Lessons
 date: '2015-09-24 18:55'
+redirect: http://www.jayblanco.com/blog/2016/2/21/three-lessons
 ---
 
 This post is a written version of a talk I gave a few months ago at a public-speaking group at work, I thought it may be interesting to have as a written piece.
