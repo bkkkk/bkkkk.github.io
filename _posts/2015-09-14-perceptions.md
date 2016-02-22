@@ -3,6 +3,7 @@ title: Perceptions and other missed opportunities
 layout: post
 author: Jacobo Blanco
 date: 14-09-2015
+redirect: http://www.jayblanco.com/blog/2016/2/21/perceptions-and-other-missed-opportunities
 --- 
 
 So I'm in Dublin for the day and since the battery on my laptop is dead I'm using my iPad for the very first time for some real *work* lets see how this goes!

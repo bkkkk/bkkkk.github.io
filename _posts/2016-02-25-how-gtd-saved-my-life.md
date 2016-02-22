@@ -3,6 +3,7 @@ layout: post
 title: 'How I almost threw my life away'
 subtitle: 'but managed not to'
 date: '2016-02-25 11:30:00'
+redirect: http://www.jayblanco.com/blog/2016/2/20/9eh19ioyjsliqbim2odwxk6tzgz31r
 ---
 
 *They say that the first step to recovery is admitting you have a problem. This is the story of how I screwed up my life, lost all hope, and then managed to get things back on track. This is the story of how I started my journey to a better and more focused life*

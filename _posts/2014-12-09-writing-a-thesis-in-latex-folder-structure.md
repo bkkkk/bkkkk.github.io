@@ -3,6 +3,7 @@ layout: post
 date: 2014-12-10
 title: 'Thesis Tutorials #2: Folder structure'
 subtitle: 'Ducks in some linear representation'
+redirect: http://www.jayblanco.com/blog/2016/2/20/thesis-tutorials-2-folder-structure
 ---
 
 *This post is part of my thesis tutorials series. You can find the rest of the posts [here](http://bkkkk.github.io/thesis.html)*

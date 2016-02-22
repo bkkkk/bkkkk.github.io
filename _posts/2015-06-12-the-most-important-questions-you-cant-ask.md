@@ -2,6 +2,7 @@
 layout: post
 date: 2015-06-12
 title: The most important questions you can't ask
+redirect: http://www.jayblanco.com/blog/2016/2/21/zmufk9iqb6hd01phmk3twl9imguxhs
 ---
 
 I was thinking about this while walking to the toilet a few days ago. I have a lot of this bathroom walk thoughts; mostly fleeting bits of pseudo-intellectual nonsense, but this particular one stuck with me.

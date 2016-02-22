@@ -2,6 +2,7 @@
 layout: post
 title: Patterns of GTD Part 2 - Breaking Things Up
 date: '2015-11-17 19:54'
+redirect: http://www.jayblanco.com/blog/2016/2/21/patterns-of-gtd-part-2-breaking-things-up
 ---
 
 _This is part 2 of a series looking at interesting GTD patterns that can be effectively used outside of GTD to make your life a little bit more friction free. In [part 1](http://bkkkk.github.io/2015-11-10-gtd-concepts-the-inbox/) we looked at how creating inboxes can help save you time and headaches when sorting through all the things in your life._

@@ -2,6 +2,7 @@
 layout: post
 title: "Polygon discusses the music of Grim Fandango HD"
 date: "2015-10-18 21:57"
+redirect: http://www.jayblanco.com/blog/2016/2/21/polygon-discusses-the-music-of-grim-fandango-hd
 ---
 
 Polygon have just started doing a podcast called Framework chatting to people that make games about their stories, and how their game came to be. The first episode couldn't be more up my alley. Peter McConnell talks about his work as the composer for Grim Fandango and his journey as a creator through five songs that were revamped for the new HD remaster of one of the best adventure titles of all times.

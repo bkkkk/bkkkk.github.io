@@ -3,6 +3,7 @@ layout: post
 date: "2016-02-22 12:00:00"
 title: "Stuff costs more than money"
 subtitle: "or do we really need a garlic crusher?"
+redirect: http://www.jayblanco.com/
 ---
 
 We generally consider throwing things out as a waste, but have you thought about how bringing things into your life is also a waste?
